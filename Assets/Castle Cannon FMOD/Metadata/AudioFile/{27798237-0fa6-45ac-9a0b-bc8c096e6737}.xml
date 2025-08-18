@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{27798237-0fa6-45ac-9a0b-bc8c096e6737}">
+		<property name="assetPath">
+			<value>Broken Echoes ext v1.2.1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>130.84800000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a58fcd79-2647-4319-a9bd-c4ac2cef894a}</destination>
+		</relationship>
+	</object>
+</objects>

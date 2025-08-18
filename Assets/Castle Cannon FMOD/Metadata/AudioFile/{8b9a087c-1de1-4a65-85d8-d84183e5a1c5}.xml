@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8b9a087c-1de1-4a65-85d8-d84183e5a1c5}">
+		<property name="assetPath">
+			<value>sci-fi_shoot_1_alt_2.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.22213151927437641</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a58fcd79-2647-4319-a9bd-c4ac2cef894a}</destination>
+		</relationship>
+	</object>
+</objects>

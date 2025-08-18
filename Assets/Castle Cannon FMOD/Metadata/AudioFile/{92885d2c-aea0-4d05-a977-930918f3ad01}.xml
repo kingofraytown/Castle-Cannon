@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{92885d2c-aea0-4d05-a977-930918f3ad01}">
+		<property name="assetPath">
+			<value>Rhythm and Vibes remix v2 ext v1.2.2-pause_filter.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>130.87200000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a58fcd79-2647-4319-a9bd-c4ac2cef894a}</destination>
+		</relationship>
+	</object>
+</objects>
