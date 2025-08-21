@@ -1,0 +1,40 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:741f8823b6b41f935f88ab5f7a3de964:0e31b5cf8f1a93b402bb855c7408bf06:f06852475394632bef18e5c218122c49$
+#
+:format=40300
+:texture=cc_sprite_sheet_1.png
+:size=256x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Castle Cannon;76;54;30;32; 0.5;0.5; 0;0;0;0
+Castle Cannon_Damaged_1;40;54;30;32; 0.5;0.5; 0;0;0;0
+Castle Cannon_Damaged_2;4;16;30;32; 0.5;0.5; 0;0;0;0
+Castle Cannon_Damaged_3;80;92;30;32; 0.5;0.5; 0;0;0;0
+Castle Cannon_Damaged_4;4;54;30;32; 0.5;0.5; 0;0;0;0
+Castle Cannon_Damaged_5;188;52;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Left;192;78;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Left_damaged_1;112;26;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Left_damaged_2;150;52;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Left_damaged_3;154;78;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Left_damaged_4;192;104;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Left_damaged_5;188;36;32;10; 0.5;0.5; 0;0;0;0
+Castle_wall_Right;112;52;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Right_Damaged_1;116;78;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Right_Damaged_2;154;104;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Right_Damaged_3;116;104;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Right_Damaged_4;74;28;32;20; 0.5;0.5; 0;0;0;0
+Castle_wall_Right_Damaged_5;150;31;32;15; 0.5;0.5; 0;0;0;0
+Dirt;42;92;32;32; 0.5;0.5; 0;0;0;0
+enemy_1;40;20;28;28; 0.5;0.5; 0;0;0;0
+enemy_1_debris_1;226;50;14;11; 0.5;0.5; 0;0;0;0
+enemy_1_debris_2;230;108;20;16; 0.5;0.5; 0;0;0;0
+enemy_1_debris_3;230;86;14;16; 0.5;0.5; 0;0;0;0
+enemy_1_debris_4;230;67;15;13; 0.5;0.5; 0;0;0;0
+Grass square;4;92;32;32; 0.5;0.5; 0;0;0;0

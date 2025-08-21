@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Castle_wall_Right_Damaged_3_0: 2682696106324523137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
