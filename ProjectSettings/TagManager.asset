@@ -42,5 +42,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG 2
+    uniqueID: 3165985449
+    locked: 0
+  - name: BG 1
+    uniqueID: 3381583099
+    locked: 0
+  - name: Bullet
+    uniqueID: 1869873943
+    locked: 0
+  - name: VFX
+    uniqueID: 1688722979
+    locked: 0
+  - name: Enemy
+    uniqueID: 3910182453
+    locked: 0
+  - name: Castle
+    uniqueID: 3080523485
+    locked: 0
   m_RenderingLayers:
   - Default
