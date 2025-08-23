@@ -119,6 +119,78 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &5687190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5687191}
+  - component: {fileID: 5687193}
+  - component: {fileID: 5687192}
+  m_Layer: 0
+  m_Name: Great Charge Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5687191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5687190}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1378467482}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5687192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5687190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a8588e07063f34a98ed522781f89c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  objectToPool: {fileID: 3755470071484078864, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+  amountToPool: 2
+--- !u!114 &5687193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5687190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4e0309f3e138b468db2cbc550fac33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 5687192}
+  fireRate: {fileID: 11400000, guid: 1496dc3196c76ac43a6598777bbf77b2, type: 2}
+  fireRateTimer: 0
+  straightShot: 1
+  targetAngle: 0
+  rightDirection: 1
+  target: {fileID: 0}
+  auto: 0
+  targetDistance: {fileID: 11400000, guid: ccfd1edf8c1cdb74cad683514d28d135, type: 2}
+  multiShot: 0
+  guns: []
+  laser: 0
 --- !u!1 &9323682
 GameObject:
   m_ObjectHideFlags: 0
@@ -4590,6 +4662,78 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &675929349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 675929350}
+  - component: {fileID: 675929352}
+  - component: {fileID: 675929351}
+  m_Layer: 0
+  m_Name: Charge Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &675929350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675929349}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1378467482}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &675929351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675929349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a8588e07063f34a98ed522781f89c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  objectToPool: {fileID: 8512658201920659051, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+  amountToPool: 5
+--- !u!114 &675929352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675929349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4e0309f3e138b468db2cbc550fac33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 675929351}
+  fireRate: {fileID: 11400000, guid: 1496dc3196c76ac43a6598777bbf77b2, type: 2}
+  fireRateTimer: 0
+  straightShot: 1
+  targetAngle: 0
+  rightDirection: 1
+  target: {fileID: 0}
+  auto: 0
+  targetDistance: {fileID: 11400000, guid: ccfd1edf8c1cdb74cad683514d28d135, type: 2}
+  multiShot: 0
+  guns: []
+  laser: 0
 --- !u!1 &696405144
 GameObject:
   m_ObjectHideFlags: 0
@@ -5793,6 +5937,78 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &784115129
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 784115130}
+  - component: {fileID: 784115132}
+  - component: {fileID: 784115131}
+  m_Layer: 0
+  m_Name: Overflow Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &784115130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 784115129}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1378467482}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &784115131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 784115129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a8588e07063f34a98ed522781f89c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  objectToPool: {fileID: 5395687667032500916, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+  amountToPool: 1
+--- !u!114 &784115132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 784115129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4e0309f3e138b468db2cbc550fac33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 784115131}
+  fireRate: {fileID: 11400000, guid: 1496dc3196c76ac43a6598777bbf77b2, type: 2}
+  fireRateTimer: 0
+  straightShot: 1
+  targetAngle: 0
+  rightDirection: 1
+  target: {fileID: 0}
+  auto: 0
+  targetDistance: {fileID: 11400000, guid: ccfd1edf8c1cdb74cad683514d28d135, type: 2}
+  multiShot: 0
+  guns: []
+  laser: 0
 --- !u!1 &808577030
 GameObject:
   m_ObjectHideFlags: 0
@@ -7926,6 +8142,78 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1058308583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1058308584}
+  - component: {fileID: 1058308586}
+  - component: {fileID: 1058308585}
+  m_Layer: 0
+  m_Name: Big Charge Cannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1058308584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1058308583}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1378467482}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1058308585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1058308583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a8588e07063f34a98ed522781f89c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  objectToPool: {fileID: 3186015896698818489, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+  amountToPool: 2
+--- !u!114 &1058308586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1058308583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4e0309f3e138b468db2cbc550fac33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 1058308585}
+  fireRate: {fileID: 11400000, guid: 1496dc3196c76ac43a6598777bbf77b2, type: 2}
+  fireRateTimer: 0
+  straightShot: 1
+  targetAngle: 0
+  rightDirection: 1
+  target: {fileID: 0}
+  auto: 0
+  targetDistance: {fileID: 11400000, guid: ccfd1edf8c1cdb74cad683514d28d135, type: 2}
+  multiShot: 0
+  guns: []
+  laser: 0
 --- !u!1 &1060039353
 GameObject:
   m_ObjectHideFlags: 0
@@ -9819,14 +10107,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthBar: {fileID: 1752232595}
   powerBar: {fileID: 1260584615}
-  chargeRate: 0
+  chargeRate: 1
   currentCharge: 0
+  isFiringBullets: 0
+  turret: {fileID: 0}
   currentChargeState: 0
-  basicShot: {fileID: 0}
-  chargeShot: {fileID: 0}
-  bigChargeShot: {fileID: 0}
-  biggerChargeShot: {fileID: 0}
-  overFlowShot: {fileID: 0}
+  currentHealthState: 0
+  basicShot: {fileID: 738550022}
+  chargeShot: {fileID: 675929352}
+  bigChargeShot: {fileID: 1058308586}
+  biggerChargeShot: {fileID: 5687193}
+  overFlowShot: {fileID: 784115132}
 --- !u!1 &1326057619
 GameObject:
   m_ObjectHideFlags: 0
@@ -10239,6 +10530,10 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 738550020}
+  - {fileID: 675929350}
+  - {fileID: 1058308584}
+  - {fileID: 5687191}
+  - {fileID: 784115130}
   m_Father: {fileID: 1305226916}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1378798491
@@ -11201,6 +11496,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1492659744
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 218910815545215080, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8512658201920659051, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_Name
+      value: Charged Bullet (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8512658201920659051, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29f923d6cfdb50644b205949fa70beba, type: 3}
 --- !u!1 &1493464653
 GameObject:
   m_ObjectHideFlags: 0
@@ -15378,65 +15734,198 @@ PrefabInstance:
       propertyPath: m_Name
       value: Basic Bullet
       objectReference: {fileID: 0}
+    - target: {fileID: 4649170600755607596, guid: 37059d0a5e9a60e4a84cf1d31a8479ee, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4649170600755607596, guid: 37059d0a5e9a60e4a84cf1d31a8479ee, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 4178828925593551252}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 37059d0a5e9a60e4a84cf1d31a8479ee, type: 3}
---- !u!1 &4178828925593551251 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4649170600755607596, guid: 37059d0a5e9a60e4a84cf1d31a8479ee, type: 3}
-  m_PrefabInstance: {fileID: 4178828925593551250}
-  m_PrefabAsset: {fileID: 0}
---- !u!61 &4178828925593551252
-BoxCollider2D:
+--- !u!1001 &5088098662618413944
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4178828925593551251}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3186015896698818489, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_Name
+      value: Big Charge Bullet
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186015896698818489, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5274637305140243851, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+--- !u!1001 &7466460329570214359
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3755470071484078864, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_Name
+      value: Great Charge Bullet
+      objectReference: {fileID: 0}
+    - target: {fileID: 3755470071484078864, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7022124688743695955, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30f80411ee98d7a4aba33b0b3eb96012, type: 3}
+--- !u!1001 &8522534335681343160
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.183
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.482
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4509109160273794400, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5395687667032500916, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_Name
+      value: Overflow Bullet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5395687667032500916, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 448dd572120a3d74088a2d2b799d4dc6, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -15454,3 +15943,7 @@ SceneRoots:
   - {fileID: 1305226916}
   - {fileID: 1520566207}
   - {fileID: 4178828925593551250}
+  - {fileID: 1492659744}
+  - {fileID: 5088098662618413944}
+  - {fileID: 7466460329570214359}
+  - {fileID: 8522534335681343160}

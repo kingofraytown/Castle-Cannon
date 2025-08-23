@@ -1,0 +1,6599 @@
+fileFormatVersion: 2
+guid: 9fd571a2b1db9d8448b570972ead9b05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7074511775862668737
+    second: Purple Effect Bullet Impact Explosion 32x32_0
+  - first:
+      213: 1640978148841053089
+    second: Purple Effect Bullet Impact Explosion 32x32_1
+  - first:
+      213: 5618168183451475277
+    second: Purple Effect Bullet Impact Explosion 32x32_2
+  - first:
+      213: -8144710357290556811
+    second: Purple Effect Bullet Impact Explosion 32x32_3
+  - first:
+      213: 1372874264135817305
+    second: Purple Effect Bullet Impact Explosion 32x32_4
+  - first:
+      213: -4716736522807999269
+    second: Purple Effect Bullet Impact Explosion 32x32_5
+  - first:
+      213: 801156608480740780
+    second: Purple Effect Bullet Impact Explosion 32x32_6
+  - first:
+      213: 8133108638482750480
+    second: Purple Effect Bullet Impact Explosion 32x32_7
+  - first:
+      213: -6684755398729543581
+    second: Purple Effect Bullet Impact Explosion 32x32_8
+  - first:
+      213: -701702579220435406
+    second: Purple Effect Bullet Impact Explosion 32x32_9
+  - first:
+      213: -7932032418548497048
+    second: Purple Effect Bullet Impact Explosion 32x32_10
+  - first:
+      213: 6500094491905911314
+    second: Purple Effect Bullet Impact Explosion 32x32_11
+  - first:
+      213: -1668655645373086886
+    second: Purple Effect Bullet Impact Explosion 32x32_12
+  - first:
+      213: -736473107248580294
+    second: Purple Effect Bullet Impact Explosion 32x32_13
+  - first:
+      213: 8046369001167368912
+    second: Purple Effect Bullet Impact Explosion 32x32_14
+  - first:
+      213: -2066461686287727
+    second: Purple Effect Bullet Impact Explosion 32x32_15
+  - first:
+      213: 6880709417629364193
+    second: Purple Effect Bullet Impact Explosion 32x32_16
+  - first:
+      213: 3889380950281728714
+    second: Purple Effect Bullet Impact Explosion 32x32_17
+  - first:
+      213: 2092186008301642076
+    second: Purple Effect Bullet Impact Explosion 32x32_18
+  - first:
+      213: -4549607413336209674
+    second: Purple Effect Bullet Impact Explosion 32x32_19
+  - first:
+      213: 1868870908167343379
+    second: Purple Effect Bullet Impact Explosion 32x32_20
+  - first:
+      213: -8786555427790658318
+    second: Purple Effect Bullet Impact Explosion 32x32_21
+  - first:
+      213: 4800780272800231877
+    second: Purple Effect Bullet Impact Explosion 32x32_22
+  - first:
+      213: 9174214889093690166
+    second: Purple Effect Bullet Impact Explosion 32x32_23
+  - first:
+      213: -9199984876368298972
+    second: Purple Effect Bullet Impact Explosion 32x32_24
+  - first:
+      213: -669267621749454217
+    second: Purple Effect Bullet Impact Explosion 32x32_25
+  - first:
+      213: -437813649433567222
+    second: Purple Effect Bullet Impact Explosion 32x32_26
+  - first:
+      213: 742283701028990515
+    second: Purple Effect Bullet Impact Explosion 32x32_27
+  - first:
+      213: -2716113438787147243
+    second: Purple Effect Bullet Impact Explosion 32x32_28
+  - first:
+      213: 4728571677919740602
+    second: Purple Effect Bullet Impact Explosion 32x32_29
+  - first:
+      213: 5603683354594406490
+    second: Purple Effect Bullet Impact Explosion 32x32_30
+  - first:
+      213: 7131092459936904915
+    second: Purple Effect Bullet Impact Explosion 32x32_31
+  - first:
+      213: -7628879171542968545
+    second: Purple Effect Bullet Impact Explosion 32x32_32
+  - first:
+      213: -3113528843225030086
+    second: Purple Effect Bullet Impact Explosion 32x32_33
+  - first:
+      213: 2751245586919620867
+    second: Purple Effect Bullet Impact Explosion 32x32_34
+  - first:
+      213: 3301828064957328308
+    second: Purple Effect Bullet Impact Explosion 32x32_35
+  - first:
+      213: -4232560732621779936
+    second: Purple Effect Bullet Impact Explosion 32x32_36
+  - first:
+      213: -4402076029708030575
+    second: Purple Effect Bullet Impact Explosion 32x32_37
+  - first:
+      213: -7603822729126085590
+    second: Purple Effect Bullet Impact Explosion 32x32_38
+  - first:
+      213: 4970385540731329911
+    second: Purple Effect Bullet Impact Explosion 32x32_39
+  - first:
+      213: 4114791344197468344
+    second: Purple Effect Bullet Impact Explosion 32x32_40
+  - first:
+      213: -2132196595160229566
+    second: Purple Effect Bullet Impact Explosion 32x32_41
+  - first:
+      213: -598231334168906678
+    second: Purple Effect Bullet Impact Explosion 32x32_42
+  - first:
+      213: -4144049242525959049
+    second: Purple Effect Bullet Impact Explosion 32x32_43
+  - first:
+      213: 6618039406903391840
+    second: Purple Effect Bullet Impact Explosion 32x32_44
+  - first:
+      213: -8044238523214726382
+    second: Purple Effect Bullet Impact Explosion 32x32_45
+  - first:
+      213: -1334930373466839806
+    second: Purple Effect Bullet Impact Explosion 32x32_46
+  - first:
+      213: 8615274973360033108
+    second: Purple Effect Bullet Impact Explosion 32x32_47
+  - first:
+      213: 3687285040476489016
+    second: Purple Effect Bullet Impact Explosion 32x32_48
+  - first:
+      213: 6631973933328727786
+    second: Purple Effect Bullet Impact Explosion 32x32_49
+  - first:
+      213: 310428779360130686
+    second: Purple Effect Bullet Impact Explosion 32x32_50
+  - first:
+      213: -7643942754243561756
+    second: Purple Effect Bullet Impact Explosion 32x32_51
+  - first:
+      213: -584784591365579067
+    second: Purple Effect Bullet Impact Explosion 32x32_52
+  - first:
+      213: -6801876092086817636
+    second: Purple Effect Bullet Impact Explosion 32x32_53
+  - first:
+      213: -7277783858165119023
+    second: Purple Effect Bullet Impact Explosion 32x32_54
+  - first:
+      213: 5551442399085468491
+    second: Purple Effect Bullet Impact Explosion 32x32_55
+  - first:
+      213: -4050252014447799586
+    second: Purple Effect Bullet Impact Explosion 32x32_56
+  - first:
+      213: -4783290407989266241
+    second: Purple Effect Bullet Impact Explosion 32x32_57
+  - first:
+      213: 5163534914431434238
+    second: Purple Effect Bullet Impact Explosion 32x32_58
+  - first:
+      213: -4050098170896389777
+    second: Purple Effect Bullet Impact Explosion 32x32_59
+  - first:
+      213: 2467613298428184711
+    second: Purple Effect Bullet Impact Explosion 32x32_60
+  - first:
+      213: -781299768777821236
+    second: Purple Effect Bullet Impact Explosion 32x32_61
+  - first:
+      213: 726180806505123354
+    second: Purple Effect Bullet Impact Explosion 32x32_62
+  - first:
+      213: -8944760763144615564
+    second: Purple Effect Bullet Impact Explosion 32x32_63
+  - first:
+      213: 2905252609842370380
+    second: Purple Effect Bullet Impact Explosion 32x32_64
+  - first:
+      213: 1410856654315630306
+    second: Purple Effect Bullet Impact Explosion 32x32_65
+  - first:
+      213: 9021554254583897981
+    second: Purple Effect Bullet Impact Explosion 32x32_66
+  - first:
+      213: 5413637648848545204
+    second: Purple Effect Bullet Impact Explosion 32x32_67
+  - first:
+      213: 3575595043812187334
+    second: Purple Effect Bullet Impact Explosion 32x32_68
+  - first:
+      213: -4349782801778866926
+    second: Purple Effect Bullet Impact Explosion 32x32_69
+  - first:
+      213: -3729199443862707203
+    second: Purple Effect Bullet Impact Explosion 32x32_70
+  - first:
+      213: 4443756115137212795
+    second: Purple Effect Bullet Impact Explosion 32x32_71
+  - first:
+      213: 4414156626688354931
+    second: Purple Effect Bullet Impact Explosion 32x32_72
+  - first:
+      213: -7257463221958648220
+    second: Purple Effect Bullet Impact Explosion 32x32_73
+  - first:
+      213: -3114825918678671646
+    second: Purple Effect Bullet Impact Explosion 32x32_74
+  - first:
+      213: -6218990887077474388
+    second: Purple Effect Bullet Impact Explosion 32x32_75
+  - first:
+      213: 7253930277675733412
+    second: Purple Effect Bullet Impact Explosion 32x32_76
+  - first:
+      213: -3808610123880524766
+    second: Purple Effect Bullet Impact Explosion 32x32_77
+  - first:
+      213: 3834581911690217829
+    second: Purple Effect Bullet Impact Explosion 32x32_78
+  - first:
+      213: -4233618518480791420
+    second: Purple Effect Bullet Impact Explosion 32x32_79
+  - first:
+      213: -687990198421029953
+    second: Purple Effect Bullet Impact Explosion 32x32_80
+  - first:
+      213: 332435248979168307
+    second: Purple Effect Bullet Impact Explosion 32x32_81
+  - first:
+      213: -6135596439130065816
+    second: Purple Effect Bullet Impact Explosion 32x32_82
+  - first:
+      213: -1385382205715145247
+    second: Purple Effect Bullet Impact Explosion 32x32_83
+  - first:
+      213: -2370274392044226122
+    second: Purple Effect Bullet Impact Explosion 32x32_84
+  - first:
+      213: -1283561737095660869
+    second: Purple Effect Bullet Impact Explosion 32x32_85
+  - first:
+      213: 5417043965274599103
+    second: Purple Effect Bullet Impact Explosion 32x32_86
+  - first:
+      213: 4122568300040697981
+    second: Purple Effect Bullet Impact Explosion 32x32_87
+  - first:
+      213: -101609263389385453
+    second: Purple Effect Bullet Impact Explosion 32x32_88
+  - first:
+      213: 8503259304096782437
+    second: Purple Effect Bullet Impact Explosion 32x32_89
+  - first:
+      213: 507441242785490711
+    second: Purple Effect Bullet Impact Explosion 32x32_90
+  - first:
+      213: 6193063206586647864
+    second: Purple Effect Bullet Impact Explosion 32x32_91
+  - first:
+      213: -2214733437266583961
+    second: Purple Effect Bullet Impact Explosion 32x32_92
+  - first:
+      213: 7136071632251701237
+    second: Purple Effect Bullet Impact Explosion 32x32_93
+  - first:
+      213: -3450232487835104364
+    second: Purple Effect Bullet Impact Explosion 32x32_94
+  - first:
+      213: 5905349446964449243
+    second: Purple Effect Bullet Impact Explosion 32x32_95
+  - first:
+      213: 6096305366414359879
+    second: Purple Effect Bullet Impact Explosion 32x32_96
+  - first:
+      213: 5571497888418051132
+    second: Purple Effect Bullet Impact Explosion 32x32_97
+  - first:
+      213: -1171571334211528971
+    second: Purple Effect Bullet Impact Explosion 32x32_98
+  - first:
+      213: 7033379979955687625
+    second: Purple Effect Bullet Impact Explosion 32x32_99
+  - first:
+      213: 5902955241869831940
+    second: Purple Effect Bullet Impact Explosion 32x32_100
+  - first:
+      213: -900578080052529132
+    second: Purple Effect Bullet Impact Explosion 32x32_101
+  - first:
+      213: -1297269947508402291
+    second: Purple Effect Bullet Impact Explosion 32x32_102
+  - first:
+      213: -2920666091867731436
+    second: Purple Effect Bullet Impact Explosion 32x32_103
+  - first:
+      213: -3364757409425020704
+    second: Purple Effect Bullet Impact Explosion 32x32_104
+  - first:
+      213: -8097886558168170274
+    second: Purple Effect Bullet Impact Explosion 32x32_105
+  - first:
+      213: 6640125193207353492
+    second: Purple Effect Bullet Impact Explosion 32x32_106
+  - first:
+      213: 9124666558970942678
+    second: Purple Effect Bullet Impact Explosion 32x32_107
+  - first:
+      213: 3898399085796140848
+    second: Purple Effect Bullet Impact Explosion 32x32_108
+  - first:
+      213: -5883888151368307797
+    second: Purple Effect Bullet Impact Explosion 32x32_109
+  - first:
+      213: -9025030736658373885
+    second: Purple Effect Bullet Impact Explosion 32x32_110
+  - first:
+      213: 4996416464946881319
+    second: Purple Effect Bullet Impact Explosion 32x32_111
+  - first:
+      213: -9138616394819846041
+    second: Purple Effect Bullet Impact Explosion 32x32_112
+  - first:
+      213: -2634237046685170595
+    second: Purple Effect Bullet Impact Explosion 32x32_113
+  - first:
+      213: 8922220109958580252
+    second: Purple Effect Bullet Impact Explosion 32x32_114
+  - first:
+      213: 7504976557558995456
+    second: Purple Effect Bullet Impact Explosion 32x32_115
+  - first:
+      213: -4258705838977365830
+    second: Purple Effect Bullet Impact Explosion 32x32_116
+  - first:
+      213: -4458951121824090551
+    second: Purple Effect Bullet Impact Explosion 32x32_117
+  - first:
+      213: 5405283610165482367
+    second: Purple Effect Bullet Impact Explosion 32x32_118
+  - first:
+      213: 338979389993618200
+    second: Purple Effect Bullet Impact Explosion 32x32_119
+  - first:
+      213: -3867102468498668123
+    second: Purple Effect Bullet Impact Explosion 32x32_120
+  - first:
+      213: -3526991723591209776
+    second: Purple Effect Bullet Impact Explosion 32x32_121
+  - first:
+      213: -3613636041431191151
+    second: Purple Effect Bullet Impact Explosion 32x32_122
+  - first:
+      213: 802428092814272076
+    second: Purple Effect Bullet Impact Explosion 32x32_123
+  - first:
+      213: 2542095132806324872
+    second: Purple Effect Bullet Impact Explosion 32x32_124
+  - first:
+      213: -1265699661052000794
+    second: Purple Effect Bullet Impact Explosion 32x32_125
+  - first:
+      213: 2225351738960948069
+    second: Purple Effect Bullet Impact Explosion 32x32_126
+  - first:
+      213: 7437574639686333703
+    second: Purple Effect Bullet Impact Explosion 32x32_127
+  - first:
+      213: -1365908616946916288
+    second: Purple Effect Bullet Impact Explosion 32x32_128
+  - first:
+      213: -2243903945796072746
+    second: Purple Effect Bullet Impact Explosion 32x32_129
+  - first:
+      213: -5033439980494046557
+    second: Purple Effect Bullet Impact Explosion 32x32_130
+  - first:
+      213: -5958957181296820493
+    second: Purple Effect Bullet Impact Explosion 32x32_131
+  - first:
+      213: 8148974259007470345
+    second: Purple Effect Bullet Impact Explosion 32x32_132
+  - first:
+      213: 5235616259217981139
+    second: Purple Effect Bullet Impact Explosion 32x32_133
+  - first:
+      213: 8045148368197375874
+    second: Purple Effect Bullet Impact Explosion 32x32_134
+  - first:
+      213: -8640580469591866319
+    second: Purple Effect Bullet Impact Explosion 32x32_135
+  - first:
+      213: -6375079752613721549
+    second: Purple Effect Bullet Impact Explosion 32x32_136
+  - first:
+      213: -4110713949218728527
+    second: Purple Effect Bullet Impact Explosion 32x32_137
+  - first:
+      213: -3333880738829643565
+    second: Purple Effect Bullet Impact Explosion 32x32_138
+  - first:
+      213: 484469838556533089
+    second: Purple Effect Bullet Impact Explosion 32x32_139
+  - first:
+      213: 5008855519458458398
+    second: Purple Effect Bullet Impact Explosion 32x32_140
+  - first:
+      213: 8411271601509935206
+    second: Purple Effect Bullet Impact Explosion 32x32_141
+  - first:
+      213: 6195640922333596547
+    second: Purple Effect Bullet Impact Explosion 32x32_142
+  - first:
+      213: -6750326165824380177
+    second: Purple Effect Bullet Impact Explosion 32x32_143
+  - first:
+      213: -3083665147410893761
+    second: Purple Effect Bullet Impact Explosion 32x32_144
+  - first:
+      213: -2243043021299432337
+    second: Purple Effect Bullet Impact Explosion 32x32_145
+  - first:
+      213: 1946674931661564471
+    second: Purple Effect Bullet Impact Explosion 32x32_146
+  - first:
+      213: -5611336422368286551
+    second: Purple Effect Bullet Impact Explosion 32x32_147
+  - first:
+      213: -4070685284570302609
+    second: Purple Effect Bullet Impact Explosion 32x32_148
+  - first:
+      213: 472487434541277963
+    second: Purple Effect Bullet Impact Explosion 32x32_149
+  - first:
+      213: 8575663674569571533
+    second: Purple Effect Bullet Impact Explosion 32x32_150
+  - first:
+      213: -2144234452671720661
+    second: Purple Effect Bullet Impact Explosion 32x32_151
+  - first:
+      213: 6901236920871121850
+    second: Purple Effect Bullet Impact Explosion 32x32_152
+  - first:
+      213: 3280954168282515767
+    second: Purple Effect Bullet Impact Explosion 32x32_153
+  - first:
+      213: -6436014632202627845
+    second: Purple Effect Bullet Impact Explosion 32x32_154
+  - first:
+      213: 3809060671531777787
+    second: Purple Effect Bullet Impact Explosion 32x32_155
+  - first:
+      213: 5592035776075220295
+    second: Purple Effect Bullet Impact Explosion 32x32_156
+  - first:
+      213: 3240641025978900486
+    second: Purple Effect Bullet Impact Explosion 32x32_157
+  - first:
+      213: 930145872618188043
+    second: Purple Effect Bullet Impact Explosion 32x32_158
+  - first:
+      213: 8492924983017062410
+    second: Purple Effect Bullet Impact Explosion 32x32_159
+  - first:
+      213: -2207370619218357654
+    second: Purple Effect Bullet Impact Explosion 32x32_160
+  - first:
+      213: -4232710817880100588
+    second: Purple Effect Bullet Impact Explosion 32x32_161
+  - first:
+      213: -5810950375703463502
+    second: Purple Effect Bullet Impact Explosion 32x32_162
+  - first:
+      213: 875044368696213759
+    second: Purple Effect Bullet Impact Explosion 32x32_163
+  - first:
+      213: -1740848013392332185
+    second: Purple Effect Bullet Impact Explosion 32x32_164
+  - first:
+      213: 2174558860593015051
+    second: Purple Effect Bullet Impact Explosion 32x32_165
+  - first:
+      213: 5512711298905376542
+    second: Purple Effect Bullet Impact Explosion 32x32_166
+  - first:
+      213: 1512011513048003496
+    second: Purple Effect Bullet Impact Explosion 32x32_167
+  - first:
+      213: -8168017526135709005
+    second: Purple Effect Bullet Impact Explosion 32x32_168
+  - first:
+      213: 2945159748911525992
+    second: Purple Effect Bullet Impact Explosion 32x32_169
+  - first:
+      213: 789573520579795799
+    second: Purple Effect Bullet Impact Explosion 32x32_170
+  - first:
+      213: 2292152896646594403
+    second: Purple Effect Bullet Impact Explosion 32x32_171
+  - first:
+      213: 8220496156732003236
+    second: Purple Effect Bullet Impact Explosion 32x32_172
+  - first:
+      213: 7352241552136693715
+    second: Purple Effect Bullet Impact Explosion 32x32_173
+  - first:
+      213: 8054321165635711215
+    second: Purple Effect Bullet Impact Explosion 32x32_174
+  - first:
+      213: 3020323826744598982
+    second: Purple Effect Bullet Impact Explosion 32x32_175
+  - first:
+      213: 4658215681641498808
+    second: Purple Effect Bullet Impact Explosion 32x32_176
+  - first:
+      213: -1045729282864325728
+    second: Purple Effect Bullet Impact Explosion 32x32_177
+  - first:
+      213: 2046244308811950365
+    second: Purple Effect Bullet Impact Explosion 32x32_178
+  - first:
+      213: 4501658557401328206
+    second: Purple Effect Bullet Impact Explosion 32x32_179
+  - first:
+      213: -6297486489924136036
+    second: Purple Effect Bullet Impact Explosion 32x32_180
+  - first:
+      213: 3029419076551977309
+    second: Purple Effect Bullet Impact Explosion 32x32_181
+  - first:
+      213: -917301141584933165
+    second: Purple Effect Bullet Impact Explosion 32x32_182
+  - first:
+      213: -5442944906333666493
+    second: Purple Effect Bullet Impact Explosion 32x32_183
+  - first:
+      213: 4150352036050505340
+    second: Purple Effect Bullet Impact Explosion 32x32_184
+  - first:
+      213: -6413255373461261168
+    second: Purple Effect Bullet Impact Explosion 32x32_185
+  - first:
+      213: -563818889773543423
+    second: Purple Effect Bullet Impact Explosion 32x32_186
+  - first:
+      213: 7270492047811060643
+    second: Purple Effect Bullet Impact Explosion 32x32_187
+  - first:
+      213: -5651023479723301140
+    second: Purple Effect Bullet Impact Explosion 32x32_188
+  - first:
+      213: 805899359026093963
+    second: Purple Effect Bullet Impact Explosion 32x32_189
+  - first:
+      213: -6107442294399665940
+    second: Purple Effect Bullet Impact Explosion 32x32_190
+  - first:
+      213: 3786963156168829045
+    second: Purple Effect Bullet Impact Explosion 32x32_191
+  - first:
+      213: -1124851291947091002
+    second: Purple Effect Bullet Impact Explosion 32x32_192
+  - first:
+      213: 6795352113656931030
+    second: Purple Effect Bullet Impact Explosion 32x32_193
+  - first:
+      213: -5987976225434129462
+    second: Purple Effect Bullet Impact Explosion 32x32_194
+  - first:
+      213: 6090311912498950877
+    second: Purple Effect Bullet Impact Explosion 32x32_195
+  - first:
+      213: -5176048783422425783
+    second: Purple Effect Bullet Impact Explosion 32x32_196
+  - first:
+      213: -2175750983562410300
+    second: Purple Effect Bullet Impact Explosion 32x32_197
+  - first:
+      213: -489131651413169460
+    second: Purple Effect Bullet Impact Explosion 32x32_198
+  - first:
+      213: 4731952046559284096
+    second: Purple Effect Bullet Impact Explosion 32x32_199
+  - first:
+      213: 6868238373484038527
+    second: Purple Effect Bullet Impact Explosion 32x32_200
+  - first:
+      213: -5032177137721776283
+    second: Purple Effect Bullet Impact Explosion 32x32_201
+  - first:
+      213: 5537725790992788872
+    second: Purple Effect Bullet Impact Explosion 32x32_202
+  - first:
+      213: 3211114063479692377
+    second: Purple Effect Bullet Impact Explosion 32x32_203
+  - first:
+      213: 7803062631119407045
+    second: Purple Effect Bullet Impact Explosion 32x32_204
+  - first:
+      213: -8332944362046736359
+    second: Purple Effect Bullet Impact Explosion 32x32_205
+  - first:
+      213: -6838166674291511367
+    second: Purple Effect Bullet Impact Explosion 32x32_206
+  - first:
+      213: -8515273270743033618
+    second: Purple Effect Bullet Impact Explosion 32x32_207
+  - first:
+      213: -4053500419904426478
+    second: Purple Effect Bullet Impact Explosion 32x32_208
+  - first:
+      213: 790899028657044366
+    second: Purple Effect Bullet Impact Explosion 32x32_209
+  - first:
+      213: 5563797334377726780
+    second: Purple Effect Bullet Impact Explosion 32x32_210
+  - first:
+      213: 2081035481496678856
+    second: Purple Effect Bullet Impact Explosion 32x32_211
+  - first:
+      213: -1114973184509131219
+    second: Purple Effect Bullet Impact Explosion 32x32_212
+  - first:
+      213: 9163255713706041585
+    second: Purple Effect Bullet Impact Explosion 32x32_213
+  - first:
+      213: 8781119501488209913
+    second: Purple Effect Bullet Impact Explosion 32x32_214
+  - first:
+      213: -6696255167929426575
+    second: Purple Effect Bullet Impact Explosion 32x32_215
+  - first:
+      213: 6721859327880577314
+    second: Purple Effect Bullet Impact Explosion 32x32_216
+  - first:
+      213: 368247495876176967
+    second: Purple Effect Bullet Impact Explosion 32x32_217
+  - first:
+      213: 4378163419983277307
+    second: Purple Effect Bullet Impact Explosion 32x32_218
+  - first:
+      213: -7376039092729421781
+    second: Purple Effect Bullet Impact Explosion 32x32_219
+  - first:
+      213: 8172035324003280140
+    second: Purple Effect Bullet Impact Explosion 32x32_220
+  - first:
+      213: -4365110146843555061
+    second: Purple Effect Bullet Impact Explosion 32x32_221
+  - first:
+      213: 8788524979611309863
+    second: Purple Effect Bullet Impact Explosion 32x32_222
+  - first:
+      213: 4240299392226054774
+    second: Purple Effect Bullet Impact Explosion 32x32_223
+  - first:
+      213: -6570018346604952471
+    second: Purple Effect Bullet Impact Explosion 32x32_224
+  - first:
+      213: 7261894997475547984
+    second: Purple Effect Bullet Impact Explosion 32x32_225
+  - first:
+      213: -6606613119376848635
+    second: Purple Effect Bullet Impact Explosion 32x32_226
+  - first:
+      213: -5985894668246027624
+    second: Purple Effect Bullet Impact Explosion 32x32_227
+  - first:
+      213: -5193041139412484840
+    second: Purple Effect Bullet Impact Explosion 32x32_228
+  - first:
+      213: 764958682003234942
+    second: Purple Effect Bullet Impact Explosion 32x32_229
+  - first:
+      213: -6040447495077433266
+    second: Purple Effect Bullet Impact Explosion 32x32_230
+  - first:
+      213: -2592263243364697034
+    second: Purple Effect Bullet Impact Explosion 32x32_231
+  - first:
+      213: -608200680518394226
+    second: Purple Effect Bullet Impact Explosion 32x32_232
+  - first:
+      213: 8214268274274305830
+    second: Purple Effect Bullet Impact Explosion 32x32_233
+  - first:
+      213: -998044263735885442
+    second: Purple Effect Bullet Impact Explosion 32x32_234
+  - first:
+      213: -615919213776684134
+    second: Purple Effect Bullet Impact Explosion 32x32_235
+  - first:
+      213: 7602135311368978342
+    second: Purple Effect Bullet Impact Explosion 32x32_236
+  - first:
+      213: -7310093163781735392
+    second: Purple Effect Bullet Impact Explosion 32x32_237
+  - first:
+      213: 5573377663551108731
+    second: Purple Effect Bullet Impact Explosion 32x32_238
+  - first:
+      213: 2002186358379894575
+    second: Purple Effect Bullet Impact Explosion 32x32_239
+  - first:
+      213: -6764240131477667312
+    second: Purple Effect Bullet Impact Explosion 32x32_240
+  - first:
+      213: -4700159934719787520
+    second: Purple Effect Bullet Impact Explosion 32x32_241
+  - first:
+      213: 7916861017196078619
+    second: Purple Effect Bullet Impact Explosion 32x32_242
+  - first:
+      213: -4919075009648298282
+    second: Purple Effect Bullet Impact Explosion 32x32_243
+  - first:
+      213: -4713406025034948984
+    second: Purple Effect Bullet Impact Explosion 32x32_244
+  - first:
+      213: 8335022294842502407
+    second: Purple Effect Bullet Impact Explosion 32x32_245
+  - first:
+      213: 5028603812851322854
+    second: Purple Effect Bullet Impact Explosion 32x32_246
+  - first:
+      213: -8375257393943976107
+    second: Purple Effect Bullet Impact Explosion 32x32_247
+  - first:
+      213: 8576605755770095294
+    second: Purple Effect Bullet Impact Explosion 32x32_248
+  - first:
+      213: -2594375879920533984
+    second: Purple Effect Bullet Impact Explosion 32x32_249
+  - first:
+      213: 1359864004779027083
+    second: Purple Effect Bullet Impact Explosion 32x32_250
+  - first:
+      213: 3367682176185563117
+    second: Purple Effect Bullet Impact Explosion 32x32_251
+  - first:
+      213: -8412957235699635204
+    second: Purple Effect Bullet Impact Explosion 32x32_252
+  - first:
+      213: 6925022698850555530
+    second: Purple Effect Bullet Impact Explosion 32x32_253
+  - first:
+      213: 3383517573834829733
+    second: Purple Effect Bullet Impact Explosion 32x32_254
+  - first:
+      213: 7014628728274706722
+    second: Purple Effect Bullet Impact Explosion 32x32_255
+  - first:
+      213: -8121019749986035229
+    second: Purple Effect Bullet Impact Explosion 32x32_256
+  - first:
+      213: 7991425459401672786
+    second: Purple Effect Bullet Impact Explosion 32x32_257
+  - first:
+      213: -849959230595333080
+    second: Purple Effect Bullet Impact Explosion 32x32_258
+  - first:
+      213: -1552776864441315530
+    second: Purple Effect Bullet Impact Explosion 32x32_259
+  - first:
+      213: -2022185660240720951
+    second: Purple Effect Bullet Impact Explosion 32x32_260
+  - first:
+      213: 6008185653616449149
+    second: Purple Effect Bullet Impact Explosion 32x32_261
+  - first:
+      213: 4492608331568207163
+    second: Purple Effect Bullet Impact Explosion 32x32_262
+  - first:
+      213: 8048516853169334275
+    second: Purple Effect Bullet Impact Explosion 32x32_263
+  - first:
+      213: 7309517116767275772
+    second: Purple Effect Bullet Impact Explosion 32x32_264
+  - first:
+      213: -3523227070560745402
+    second: Purple Effect Bullet Impact Explosion 32x32_265
+  - first:
+      213: -2983561140837333808
+    second: Purple Effect Bullet Impact Explosion 32x32_266
+  - first:
+      213: 1669494241244083611
+    second: Purple Effect Bullet Impact Explosion 32x32_267
+  - first:
+      213: -1437730989040571763
+    second: Purple Effect Bullet Impact Explosion 32x32_268
+  - first:
+      213: -6348863360543309412
+    second: Purple Effect Bullet Impact Explosion 32x32_269
+  - first:
+      213: 8270251350988488046
+    second: Purple Effect Bullet Impact Explosion 32x32_270
+  - first:
+      213: 3012189858615808261
+    second: Purple Effect Bullet Impact Explosion 32x32_271
+  - first:
+      213: -5832206801483382077
+    second: Purple Effect Bullet Impact Explosion 32x32_272
+  - first:
+      213: 78331283154308163
+    second: Purple Effect Bullet Impact Explosion 32x32_273
+  - first:
+      213: -6643657128575774416
+    second: Purple Effect Bullet Impact Explosion 32x32_274
+  - first:
+      213: -5092725540414240844
+    second: Purple Effect Bullet Impact Explosion 32x32_275
+  - first:
+      213: -6048304932743472501
+    second: Purple Effect Bullet Impact Explosion 32x32_276
+  - first:
+      213: -3726926541127851912
+    second: Purple Effect Bullet Impact Explosion 32x32_277
+  - first:
+      213: 4762268537866780110
+    second: Purple Effect Bullet Impact Explosion 32x32_278
+  - first:
+      213: -6243907868731484346
+    second: Purple Effect Bullet Impact Explosion 32x32_279
+  - first:
+      213: -7975063201564884743
+    second: Purple Effect Bullet Impact Explosion 32x32_280
+  - first:
+      213: 6119392714374576858
+    second: Purple Effect Bullet Impact Explosion 32x32_281
+  - first:
+      213: -1110548412548101518
+    second: Purple Effect Bullet Impact Explosion 32x32_282
+  - first:
+      213: -1446343881930042490
+    second: Purple Effect Bullet Impact Explosion 32x32_283
+  - first:
+      213: 2745111473106928657
+    second: Purple Effect Bullet Impact Explosion 32x32_284
+  - first:
+      213: -3426818953415713118
+    second: Purple Effect Bullet Impact Explosion 32x32_285
+  - first:
+      213: 3591531784855948331
+    second: Purple Effect Bullet Impact Explosion 32x32_286
+  - first:
+      213: 8962059345300938721
+    second: Purple Effect Bullet Impact Explosion 32x32_287
+  - first:
+      213: -7064941409309043357
+    second: Purple Effect Bullet Impact Explosion 32x32_288
+  - first:
+      213: 852134728963740956
+    second: Purple Effect Bullet Impact Explosion 32x32_289
+  - first:
+      213: -1956067051899900575
+    second: Purple Effect Bullet Impact Explosion 32x32_290
+  - first:
+      213: 2898617836751366877
+    second: Purple Effect Bullet Impact Explosion 32x32_291
+  - first:
+      213: -28114865863559138
+    second: Purple Effect Bullet Impact Explosion 32x32_292
+  - first:
+      213: -7922977248168707681
+    second: Purple Effect Bullet Impact Explosion 32x32_293
+  - first:
+      213: -8184504619995004170
+    second: Purple Effect Bullet Impact Explosion 32x32_294
+  - first:
+      213: 1036082593199566227
+    second: Purple Effect Bullet Impact Explosion 32x32_295
+  - first:
+      213: 8138400492007051687
+    second: Purple Effect Bullet Impact Explosion 32x32_296
+  - first:
+      213: -3372491038826595078
+    second: Purple Effect Bullet Impact Explosion 32x32_297
+  - first:
+      213: -3508110016645537933
+    second: Purple Effect Bullet Impact Explosion 32x32_298
+  - first:
+      213: 3106955912482400345
+    second: Purple Effect Bullet Impact Explosion 32x32_299
+  - first:
+      213: -6459159912645499306
+    second: Purple Effect Bullet Impact Explosion 32x32_300
+  - first:
+      213: -3875642969271857743
+    second: Purple Effect Bullet Impact Explosion 32x32_301
+  - first:
+      213: -6194952020475696336
+    second: Purple Effect Bullet Impact Explosion 32x32_302
+  - first:
+      213: 4310215509033416389
+    second: Purple Effect Bullet Impact Explosion 32x32_303
+  - first:
+      213: 2343396934964263972
+    second: Purple Effect Bullet Impact Explosion 32x32_304
+  - first:
+      213: 2390288577176582232
+    second: Purple Effect Bullet Impact Explosion 32x32_305
+  - first:
+      213: -1871110378005504487
+    second: Purple Effect Bullet Impact Explosion 32x32_306
+  - first:
+      213: -6369625176358361142
+    second: Purple Effect Bullet Impact Explosion 32x32_307
+  - first:
+      213: -8616296281762914668
+    second: Purple Effect Bullet Impact Explosion 32x32_308
+  - first:
+      213: -831766771084224987
+    second: Purple Effect Bullet Impact Explosion 32x32_309
+  - first:
+      213: -895077324917469981
+    second: Purple Effect Bullet Impact Explosion 32x32_310
+  - first:
+      213: -8470088617915342395
+    second: Purple Effect Bullet Impact Explosion 32x32_311
+  - first:
+      213: 2748504972637001755
+    second: Purple Effect Bullet Impact Explosion 32x32_312
+  - first:
+      213: -432577583179616608
+    second: Purple Effect Bullet Impact Explosion 32x32_313
+  - first:
+      213: 4944756026693536652
+    second: Purple Effect Bullet Impact Explosion 32x32_314
+  - first:
+      213: 2907208938805323295
+    second: Purple Effect Bullet Impact Explosion 32x32_315
+  - first:
+      213: 6451151677362805580
+    second: Purple Effect Bullet Impact Explosion 32x32_316
+  - first:
+      213: 7469672075924878606
+    second: Purple Effect Bullet Impact Explosion 32x32_317
+  - first:
+      213: 4194806085805801021
+    second: Purple Effect Bullet Impact Explosion 32x32_318
+  - first:
+      213: -1491153810550066488
+    second: Purple Effect Bullet Impact Explosion 32x32_319
+  - first:
+      213: 8973499676615246237
+    second: Purple Effect Bullet Impact Explosion 32x32_320
+  - first:
+      213: -4766158870056568989
+    second: Purple Effect Bullet Impact Explosion 32x32_321
+  - first:
+      213: -6071228554920133426
+    second: Purple Effect Bullet Impact Explosion 32x32_322
+  - first:
+      213: 2626521002171009795
+    second: Purple Effect Bullet Impact Explosion 32x32_323
+  - first:
+      213: -563848376923515122
+    second: Purple Effect Bullet Impact Explosion 32x32_324
+  - first:
+      213: -6863308208740750366
+    second: Purple Effect Bullet Impact Explosion 32x32_325
+  - first:
+      213: -7057837375388324224
+    second: Purple Effect Bullet Impact Explosion 32x32_326
+  - first:
+      213: -6060133815061264186
+    second: Purple Effect Bullet Impact Explosion 32x32_327
+  - first:
+      213: 6306357390917439059
+    second: Purple Effect Bullet Impact Explosion 32x32_328
+  - first:
+      213: -5054895249891225981
+    second: Purple Effect Bullet Impact Explosion 32x32_329
+  - first:
+      213: -62823606594246759
+    second: Purple Effect Bullet Impact Explosion 32x32_330
+  - first:
+      213: 3665410825027769360
+    second: Purple Effect Bullet Impact Explosion 32x32_331
+  - first:
+      213: -416638967151339819
+    second: Purple Effect Bullet Impact Explosion 32x32_332
+  - first:
+      213: 3221674838542425541
+    second: Purple Effect Bullet Impact Explosion 32x32_333
+  - first:
+      213: -5445263762203512083
+    second: Purple Effect Bullet Impact Explosion 32x32_334
+  - first:
+      213: 7881123403597745387
+    second: Purple Effect Bullet Impact Explosion 32x32_335
+  - first:
+      213: 3609979159647446689
+    second: Purple Effect Bullet Impact Explosion 32x32_336
+  - first:
+      213: 2666755934633212582
+    second: Purple Effect Bullet Impact Explosion 32x32_337
+  - first:
+      213: -3616876051144609598
+    second: Purple Effect Bullet Impact Explosion 32x32_338
+  - first:
+      213: -2692840433995239541
+    second: Purple Effect Bullet Impact Explosion 32x32_339
+  - first:
+      213: 4159611908133467619
+    second: Purple Effect Bullet Impact Explosion 32x32_340
+  - first:
+      213: -1074007901265059073
+    second: Purple Effect Bullet Impact Explosion 32x32_341
+  - first:
+      213: 2178663249054524353
+    second: Purple Effect Bullet Impact Explosion 32x32_342
+  - first:
+      213: 5651454020340325660
+    second: Purple Effect Bullet Impact Explosion 32x32_343
+  - first:
+      213: 1585614551574494694
+    second: Purple Effect Bullet Impact Explosion 32x32_344
+  - first:
+      213: -7232455915819219910
+    second: Purple Effect Bullet Impact Explosion 32x32_345
+  - first:
+      213: -3379831171536998779
+    second: Purple Effect Bullet Impact Explosion 32x32_346
+  - first:
+      213: -6439872796906361859
+    second: Purple Effect Bullet Impact Explosion 32x32_347
+  - first:
+      213: 2827595578304019519
+    second: Purple Effect Bullet Impact Explosion 32x32_348
+  - first:
+      213: -4854289638764348205
+    second: Purple Effect Bullet Impact Explosion 32x32_349
+  - first:
+      213: 6979710052177734962
+    second: Purple Effect Bullet Impact Explosion 32x32_350
+  - first:
+      213: 1044230444095110263
+    second: Purple Effect Bullet Impact Explosion 32x32_351
+  - first:
+      213: 6032984708801823686
+    second: Purple Effect Bullet Impact Explosion 32x32_352
+  - first:
+      213: 6999299479763971788
+    second: Purple Effect Bullet Impact Explosion 32x32_353
+  - first:
+      213: 1412324651843904860
+    second: Purple Effect Bullet Impact Explosion 32x32_354
+  - first:
+      213: -6222180140228995577
+    second: Purple Effect Bullet Impact Explosion 32x32_355
+  - first:
+      213: -3397459895683667678
+    second: Purple Effect Bullet Impact Explosion 32x32_356
+  - first:
+      213: -175527117066969377
+    second: Purple Effect Bullet Impact Explosion 32x32_357
+  - first:
+      213: 6811496807005131238
+    second: Purple Effect Bullet Impact Explosion 32x32_358
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2f17e0e5eaef64eb777e0ef7099a68
+      internalID: -674976062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547148df9be4c04782359da7a81a00e
+      internalID: -948010081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed01b03b4df98f4495a91b2741767f7
+      internalID: -1137694730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652aa8413ee5a64b8eef1a93bb72deb
+      internalID: -1017303352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44a4ae047ffd847b5b34f1ce5dbec3
+      internalID: 1437436556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb15a804ae8f9d4badc439440e48add
+      internalID: 1121769303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e24008eb51be488febe00e0268d53
+      internalID: -1542133389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29334deffc24b574c87baf9f21ee41b1
+      internalID: 217395227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14527760bb13e340973265e1aa7fb5b
+      internalID: 2058875978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c1213de4e27764eadf832b719ec6c1
+      internalID: -70928963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76e55a8a17060469c531de8a964695
+      internalID: -892199674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064b764149326bf4fa1ed94310df1c16
+      internalID: -1041189298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d30da58f40d2b84184f1b38effa3023
+      internalID: -2030768428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a825c002dd178e4fa600309d12eac31
+      internalID: 2119664955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a3b75c79f07484db8f148485ef02c0
+      internalID: 1089971010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8ba7cc5eb21043ba7d653cd6b16b9
+      internalID: -1753115023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a68b62570e5e47884c438724b5d97
+      internalID: 374635610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42e21bc6e03b944b8e67b162fee9634
+      internalID: -1678093663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27111ac7903e44da91f1c032bfc52b
+      internalID: 1147220671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d48421b56f344ca5018118f154eb5
+      internalID: 1845487037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42406d6ac4ce947a7fa4953059d5bd
+      internalID: -1748731159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8e42f6a5c41c4eb87465bccf0e211
+      internalID: -2041590428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5013792cf8d56c41935e789ea8456dd
+      internalID: 269116030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3633737f0cb1742b06fe7d726e6ad9
+      internalID: 2037870032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f760f084be5cc144b30d4001978e8c1
+      internalID: -2106642108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3666a3cefd877f4298651afbd1ab061
+      internalID: -1216488632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dba838acd8d13479503e845cd49616
+      internalID: 715897124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0240c8460e5e44b831bd96875d79b8
+      internalID: 924461601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9d99c6f1fc2341bb63dbc94f3ea19
+      internalID: -147370521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0935dd2fe40c4c82cb00be5cc3cdb
+      internalID: -188730141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e01a1a5c913546856c3af61bb483d
+      internalID: 1690736055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d633c69fe0ea74b8e2ff0f5d54fd37
+      internalID: -892137512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55e23b63d67ee4e9a94b28eb033e25
+      internalID: 448252919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba608032926e1b47bbe1edb64da2940
+      internalID: -1642207468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81b888ec09d604483818cb9c5c9d70
+      internalID: -2042901029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6172029c388af740a74db86446f5efc
+      internalID: 281465299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0fe5c4f8c94b4e9b75012edaa5799
+      internalID: -1421823468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a828f307aa6e34899c85c409883029
+      internalID: -1531720281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be49d6e9f1a3e4482db84d3e5a7fb1
+      internalID: 494929045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929baa8ed0497e49964e2be65272a41
+      internalID: 1394102896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc36491f0df89540acd2efa30fbf5d4
+      internalID: -1200531112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2c8c42ee3dba46bfd1ee786705d11
+      internalID: 61868330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429b9da853070b4f8b4a02863baa280
+      internalID: 1763623866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9b3d2403a857347b76fb1f1385dced
+      internalID: -1061052691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f3feee185cb745821981edc438045
+      internalID: -143239596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cde157fe5d87642b56f5ef85b08bf5
+      internalID: 1713179482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584e1aa29dc58314a8da6532c0d1e7db
+      internalID: -2085895034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da36fc676eead54294fbdd2045a7f4e
+      internalID: 644667903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba363170d59b9134fa8548f294b1a81e
+      internalID: 14913256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fe15b403f6fcd4bab25ef376ce7483
+      internalID: 110011912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a24399bcbfb96459e5a61dd8e474b7
+      internalID: -631323168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29b9b6002220a4ab9ec8fc461dfe98
+      internalID: 1015827162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e25c80a45d6d734f922db718eb5d73d
+      internalID: 91342180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab59d94c862b9147a78c44487e72bf2
+      internalID: -1806140479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65000f1e9a5c1154ab780f48222a06e1
+      internalID: -1549514657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bac0827d7014a4dabed0026124c9da
+      internalID: -871769899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9a7989f69182488f5dfc0ab2fd9a6
+      internalID: 1265703864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df563a25c8aba418a3ee034b205cdc
+      internalID: 481795773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_61
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516a120555c98348a00ca427143d7b6
+      internalID: -312960276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd4b87a387c2443b75c43875f67792
+      internalID: 76300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_63
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f0920a0ef1294496f724251f168a5
+      internalID: 1607820032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3744b81708ae7744908cf4cd975c0a4
+      internalID: -301839678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a691d17e619a04fba35897b92d6386
+      internalID: -1874330520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd820a51908a9ba4bb2fa32200b44830
+      internalID: -967144625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544c0f028239fb4c9498650491179bc
+      internalID: -491755266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af7a7c2df95e44c9e56bdaeff1b9b3
+      internalID: 608232970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d71d87af248a40bdd01c431bb57c1
+      internalID: 1190729870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81717d95a54d34447911ed6f3a7c7bb8
+      internalID: 502824106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88f49c24c4abd428e0bda27806e451
+      internalID: 1525846943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89527ec34c7692141834b4aea1431c17
+      internalID: -262648333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bb0603e5a0fe247a762bdf20387656
+      internalID: -1068962046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f350b09dc716439ace0186d3088fc
+      internalID: 1806978139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7245856460b4619499164c47c99c7c3c
+      internalID: 2072701404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de7ba588942a644d8be12be3242a25a
+      internalID: 674932935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa306191761934a85f8b4d98c9fc20
+      internalID: -666309509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9dae648243d2c4fb2eab17a62a4f41
+      internalID: -1029858580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_79
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d0af76a1c6e049aa34dbfe9cbc29e
+      internalID: 1699224008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc0f12010797fa4c978d73a298116df
+      internalID: 1134862794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb3e50915db324ba7092bd516ff3a7
+      internalID: 1925127925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 292
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba3e1bc97704824abc1f393fe32425d
+      internalID: -544172789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb3eccd75e62f489abb2750998c4ca
+      internalID: -153662371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5bd03afd09eb04f89170bad84ad196
+      internalID: -643158752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c425d9e42ca94d41b4251020e861675
+      internalID: -2139018886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b01dc7571196a54182ebfdb96329666
+      internalID: -5124581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d29db4699da44d8a2ea2b90b3e47e
+      internalID: 232355572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9deff03506bc544a90c109a1bea6e2
+      internalID: -1400873932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002fd4c065398e144b78837f3b360bb9
+      internalID: -967217071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178bb12775ee7242b507023925a1385
+      internalID: -1078101786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e74e06bf3a854ab96f53adbb01c8a
+      internalID: -619495064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6376fc4e86a7e46b27ff498b95bfa1
+      internalID: 1864431216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2fd995a0be904da82d82c2f50b85c
+      internalID: 216036135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_94
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18115504f83ac7b428db8187640642ed
+      internalID: -1724045442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350377b69c91e1459168c13b6a338bf
+      internalID: -680578030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda977e1d7aae1e48a3d1780d0cab22d
+      internalID: 503322982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2360ffa94c9698144921fe8ed2afce5d
+      internalID: -1972183593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2b8a4f234a7c4b87bcfe842c078d9
+      internalID: 919935976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea441d90c0290448431e123bfdd12c
+      internalID: -250958124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b3cf92ae5f1744bf202a363133c15
+      internalID: 716173214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee02183ee39cb4459791f2040f2297c
+      internalID: -153147822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bd09b42447414fa3d97ff3605cbd1
+      internalID: 1700025855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_104
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aca2830e9248194caaead6883fd8cf9
+      internalID: -1986613966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e342d9f5ce5e469c8ef8ac4e3e061
+      internalID: -89030979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddc78bd546a7064d975e6c6d1cf73de
+      internalID: -54105023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_107
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e38540b22cf1469bdd2aa122ba747
+      internalID: 1938156360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1136f2585000d44baf3f452f824e414
+      internalID: -1736063807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_109
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f952c5e6108a499a35c2aa4d51a69
+      internalID: -1107060973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a6ee1c4fbd77d45aa44f2292ab5cb3
+      internalID: 617995041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294ad56948f144479a304481c0a65b1
+      internalID: -1454263691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5369a07e6a044b4e989f598d13f5368
+      internalID: -1555115261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ebeb03885733540acb099572daec2d
+      internalID: -1396951212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24700ca9e374e1a409375448d1b38319
+      internalID: -1992645207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25a5aef145c824bb6e45cc6da0b173
+      internalID: -6469839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84a0f8e37b843940ad60ff77849fbab
+      internalID: -1625519209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36948f7799cdc8940a3bca4813f302e5
+      internalID: -1679403297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_118
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68456d8235d72ac4b92a49e246b603bb
+      internalID: -1105041890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090061b0c32cac40a04dc5674bded32
+      internalID: 1673849845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_120
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c298a4616611d459f94daf25d7af9f
+      internalID: 973707657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad93b7b2173544b9596f017dc3073a
+      internalID: -710355992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b96736e7fe8cc4086f9b2f3271c3cb
+      internalID: -841376762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_123
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74d9db8d6a0e774f93e55790d284e1f
+      internalID: -1572795508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799b5354b2dae4498c825411b50d8cf
+      internalID: 1259137755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_125
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3dd3c0fe4161c458e9c8e793f9db4a
+      internalID: 1226985977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff70d9f72d6d7734eac49abfc5987061
+      internalID: -1538364165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121000b9f9777441a96c224b33723a8
+      internalID: 1236874606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d132543cd93447498d05bcfdf2f9fa2
+      internalID: 432854793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a6521f160fa948b648dde50c01521
+      internalID: -1477371945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d134eac86f6b4895ffdf9c267df14
+      internalID: -1583692066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded01289b7d322f498fd59c39cb052af
+      internalID: -7109970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e73f443e7141f4aa2c86ceb63a7e12
+      internalID: -1985936858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a928eb74c5614fa4aaaa5ec97cb72060
+      internalID: -1924210133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_134
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0315a97758074ba530b74a7a075f6
+      internalID: -1311755039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc2f369bb34ca84086c4c0f95dc55bc
+      internalID: -1063768265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_136
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7aed6b8a517724d97bc13f9286a54c
+      internalID: 1900151449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_137
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bde7710541e7341b6ebcf1a0f7a8ae
+      internalID: -1526058033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_138
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e50a8a55bd37a45a9e320dc4a46b4d
+      internalID: 1133334433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_139
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c064eb211761e49b771c38973415b1
+      internalID: -744444348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dee8d94216e2545bb7ae3b13e78972
+      internalID: 561093157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_141
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8d1eb8ff84154a8937c8ddea2c1bb
+      internalID: -6774695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400861941825474196c152418e54ca2
+      internalID: -707482898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7a913fb594f0940b6ecfeb42986100
+      internalID: 401191138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da6b161a7efc64ebb8aaab148dd334
+      internalID: -1837311092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ef4ed9a5426f42ac66e72d72acde7
+      internalID: -654668130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d23b45ad9dbf4eafd0fd6b84dc927
+      internalID: -497278619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_150
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d912fad2d1a3948ba1635d4ae4235a
+      internalID: -945018943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69c84a3b2220734a9e8fe884bac00c0
+      internalID: -1345546974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_152
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b0985d59c5a048bf5c67b118db2e0
+      internalID: -555127329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76afb35a7e85a14dad7f3bf2e04ec85
+      internalID: 882651823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53753098a9dbf234495d40dac28ddc0f
+      internalID: 1314002387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_155
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd7d9546a512645b3eec0ec0ed65df
+      internalID: -1553560635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c359cdec8239479905613037d409d
+      internalID: 1825033524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_157
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0480a5bc6ec9e4db365bc4bb8aa9f8
+      internalID: 2138156532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103b20c93294f84199a6cf9bd629776
+      internalID: -1027295772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_159
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58924e52e3038142930927282e31c5a
+      internalID: -1863387673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be8db3a885acb499da2791dd5ab1bf
+      internalID: 2047478583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8c93e81fb1fb49847dc7d123278af
+      internalID: 1558151395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788bc0c43c9480848aa0295f56ec8377
+      internalID: -1335055435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b57ea8181d2184f984757544f0846a
+      internalID: 824791267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b525f11b671cb54491de0db3db5a28e
+      internalID: -828028207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530a8204af26504fb078fe3d1ee412c
+      internalID: -786842605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_166
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db6bd61e7fc7b4682b888bffdb97ab
+      internalID: 1224356028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_167
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c506912d190e045b5476582721936f
+      internalID: 923999454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_168
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b38555236bd34c998a9a34e25eea1
+      internalID: 766894087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2014a74c7da14cb58f05e51edddf7
+      internalID: 1249803502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6693e153b62f8d44aab6acf96d929c3
+      internalID: -1254653951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_171
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b418d574adad5c54287257ad65508040
+      internalID: -701033055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e026cb72a9c02fa4ab53ef25f070e495
+      internalID: -74771775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_173
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1122f1faee660da4c965a8bd65f44750
+      internalID: 1841760601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dcf6b2465704840b5b5af8f4a62a67
+      internalID: -1993600826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b73b670690804e9d82845dd75ccdf
+      internalID: -1989956152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092987ebad2db0c4f9ba985d4a8da0f5
+      internalID: 1182212573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74488715481488042b4c118dd78d0656
+      internalID: 1414119504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9896e24b0a7983948bf8391acb53b4d7
+      internalID: -1452348951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3611075af75253748a390970c78e67fc
+      internalID: 529659404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32fe062d5c071c4b8a30b265f00f559
+      internalID: 2075371782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e5d9267a5b184199d81a0c13bc8d8
+      internalID: 730248621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_182
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177bbca4055d429458e7a77fb9fa2b82
+      internalID: -1472983929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e1249b50ff67144bcd954771aad865
+      internalID: -724674143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb54f125332d845ab9f5b453c4f75c
+      internalID: 1377791863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_185
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb08bb26c0e0d40b1a2b79da4a35e8
+      internalID: -1048868637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_186
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a99cf1ec6502b468e7e68d2edd42d9
+      internalID: 610776154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_187
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8480f68dc68b478bdb93aa3f2bd39
+      internalID: -1031444878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d49e192ee1fe44aa87469b5c9a4461
+      internalID: 1690659539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_189
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a65069cc0e3fa4fae1e1b09ae54091
+      internalID: -70188337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_193
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864ecae2163fcb49a891883fe8c4ad8
+      internalID: 216838321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d674ad0f198247a8bcd94157cecf6
+      internalID: -90846140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_195
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9279da0b697b85242a88f1c0059eec75
+      internalID: 1042993553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_196
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf86b839768db164da3262f42d6ed4f3
+      internalID: -2118116536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20bdbb66f261644abd251257bcd9fa8
+      internalID: -1853268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69375b6099259254183ec80516e8a4bc
+      internalID: 993015283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_199
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2416a01bd57514abd86f2e8e3e3456
+      internalID: 59952952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_200
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7bd9b1e806ed49993d4d8e13bfc42
+      internalID: -555066825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_201
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f7bbf1d7837045af3dba1fa2b555a
+      internalID: -1955409466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_202
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfff4a0f2116164fb613e945d28f536
+      internalID: 455820514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ae6b4377b3aaf48a6b3332c97b9f36
+      internalID: -1426559947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_204
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077d5ee0c395324d8e614b77b8395d0
+      internalID: -1848287685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26cdff81327214f9a11f10a584cf80
+      internalID: -1369225264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6999d44204344ca337ef740b93275
+      internalID: -894470653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb914e9246ea034e8a742279696cae8
+      internalID: 220956936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e53b326c413ae48bf8a4e18636d71a
+      internalID: -1168619277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_209
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c91697a82340724fba32f53bd3b0f18
+      internalID: -1608720681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3fe67d12d647246ab83c255f2ad389
+      internalID: 1903634618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_211
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e058748cdebaaa44f9ef4eee21971895
+      internalID: 1765115794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_212
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df29911d9c536439b577858748be89
+      internalID: 634796109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_213
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a0a0b5aa23a34880fbee7fcd2978d
+      internalID: -2064899951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_214
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589610d1a8b831a40bef8a78f16f05a9
+      internalID: 1982506732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c820aac99d314db44bd97fd540512cd4
+      internalID: 912980789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382ff70299d2d2f45a6012ac4f3d1e47
+      internalID: 1955942227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_217
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543e3fe66a885f4795d404b16f1c9f4
+      internalID: 1884732898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_218
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a5a2230e3473942a7574e38438c432
+      internalID: -1052011799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_219
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa781794ddd0ad4a8f4c6a6b00fa69d
+      internalID: -1943697641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8405fa23693624c990aa54cc26d9fd
+      internalID: -1744904683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_221
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec76b5d8250c04c94c584712a6af5b
+      internalID: 430355584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_222
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4f1ccfede3a04d8701772754b9329
+      internalID: 28477026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_223
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e04eea1903b2b6459ad3f436851d60c
+      internalID: -904844674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c620b8f26aee494b8263d8cdb350c76
+      internalID: 514098112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_225
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22db56c41733a4db2296b9896ed619
+      internalID: -1700224302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_226
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aaf5895fcbcb24481c951f752687a7
+      internalID: -1747455541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_227
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd863fbd2afc642b0f7f0f12009cc1
+      internalID: 451032504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4031e0f5b83f4a9e8a39b1ec3a56e
+      internalID: 1127103733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_229
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e25d607df8bd441a288d534ff660be
+      internalID: -354112600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_230
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b3cb3e595414428ea7ab67b33df7f
+      internalID: 123002141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_231
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cce2619ff55348915fcaa26761d79
+      internalID: 1758578082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fb4b72cbd23cc4390c4b3f670fcc9a
+      internalID: 1675572603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_233
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466446d5970f402479fb4a26c5b2a12f
+      internalID: 1703278938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_234
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b7b720a8031024d93b651d9c78bb56
+      internalID: 1240807721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_235
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f882f27214e92a45b9a6e890debce73
+      internalID: 1152860378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_236
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdcc322cd6301147bdcd251653872e4
+      internalID: -1649368479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_237
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456c06c397f86a48aaa5f925618ae28
+      internalID: 9671836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_238
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ff784ebcd4d2540a9c6bff05e2cab6
+      internalID: -978339679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_239
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28ff1a9bb532a43a9527d749c3ccf3
+      internalID: 1587285165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_240
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506f5df8564de54e933023186466a3f
+      internalID: 2023800733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_241
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12d0770e7fa6f942ace85c96b8b5e03
+      internalID: 1407427614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_242
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca9d04a157bde4db3076b110ae2e68
+      internalID: -2037661471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Effect Bullet Impact Explosion 32x32_243
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f74843f4e67145aba98107be78cf8
+      internalID: -2057737415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e614911c81a48b47bfee790218064a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Effect Bullet Impact Explosion 32x32_0: -674976062
+      Purple Effect Bullet Impact Explosion 32x32_1: -948010081
+      Purple Effect Bullet Impact Explosion 32x32_10: -892199674
+      Purple Effect Bullet Impact Explosion 32x32_100: -250958124
+      Purple Effect Bullet Impact Explosion 32x32_101: 716173214
+      Purple Effect Bullet Impact Explosion 32x32_102: -153147822
+      Purple Effect Bullet Impact Explosion 32x32_103: 1700025855
+      Purple Effect Bullet Impact Explosion 32x32_104: -1986613966
+      Purple Effect Bullet Impact Explosion 32x32_105: -89030979
+      Purple Effect Bullet Impact Explosion 32x32_106: -54105023
+      Purple Effect Bullet Impact Explosion 32x32_107: 1938156360
+      Purple Effect Bullet Impact Explosion 32x32_108: -1736063807
+      Purple Effect Bullet Impact Explosion 32x32_109: -1107060973
+      Purple Effect Bullet Impact Explosion 32x32_11: -1041189298
+      Purple Effect Bullet Impact Explosion 32x32_110: 617995041
+      Purple Effect Bullet Impact Explosion 32x32_111: -1454263691
+      Purple Effect Bullet Impact Explosion 32x32_112: -1555115261
+      Purple Effect Bullet Impact Explosion 32x32_113: -1396951212
+      Purple Effect Bullet Impact Explosion 32x32_114: -1992645207
+      Purple Effect Bullet Impact Explosion 32x32_115: -6469839
+      Purple Effect Bullet Impact Explosion 32x32_116: -1625519209
+      Purple Effect Bullet Impact Explosion 32x32_117: -1679403297
+      Purple Effect Bullet Impact Explosion 32x32_118: -1105041890
+      Purple Effect Bullet Impact Explosion 32x32_119: 1673849845
+      Purple Effect Bullet Impact Explosion 32x32_12: -2030768428
+      Purple Effect Bullet Impact Explosion 32x32_120: 973707657
+      Purple Effect Bullet Impact Explosion 32x32_121: -710355992
+      Purple Effect Bullet Impact Explosion 32x32_122: -841376762
+      Purple Effect Bullet Impact Explosion 32x32_123: -1572795508
+      Purple Effect Bullet Impact Explosion 32x32_124: 1259137755
+      Purple Effect Bullet Impact Explosion 32x32_125: 1226985977
+      Purple Effect Bullet Impact Explosion 32x32_126: -1538364165
+      Purple Effect Bullet Impact Explosion 32x32_127: 1236874606
+      Purple Effect Bullet Impact Explosion 32x32_128: 432854793
+      Purple Effect Bullet Impact Explosion 32x32_129: -1477371945
+      Purple Effect Bullet Impact Explosion 32x32_13: 2119664955
+      Purple Effect Bullet Impact Explosion 32x32_130: -1583692066
+      Purple Effect Bullet Impact Explosion 32x32_131: -7109970
+      Purple Effect Bullet Impact Explosion 32x32_132: -1985936858
+      Purple Effect Bullet Impact Explosion 32x32_133: -1924210133
+      Purple Effect Bullet Impact Explosion 32x32_134: -1311755039
+      Purple Effect Bullet Impact Explosion 32x32_135: -1063768265
+      Purple Effect Bullet Impact Explosion 32x32_136: 1900151449
+      Purple Effect Bullet Impact Explosion 32x32_137: -1526058033
+      Purple Effect Bullet Impact Explosion 32x32_138: 1133334433
+      Purple Effect Bullet Impact Explosion 32x32_139: -744444348
+      Purple Effect Bullet Impact Explosion 32x32_14: 1089971010
+      Purple Effect Bullet Impact Explosion 32x32_140: 561093157
+      Purple Effect Bullet Impact Explosion 32x32_141: -6774695
+      Purple Effect Bullet Impact Explosion 32x32_142: -707482898
+      Purple Effect Bullet Impact Explosion 32x32_143: 26889470
+      Purple Effect Bullet Impact Explosion 32x32_144: -1622779631
+      Purple Effect Bullet Impact Explosion 32x32_145: -835536692
+      Purple Effect Bullet Impact Explosion 32x32_146: 401191138
+      Purple Effect Bullet Impact Explosion 32x32_147: -1837311092
+      Purple Effect Bullet Impact Explosion 32x32_148: -654668130
+      Purple Effect Bullet Impact Explosion 32x32_149: -497278619
+      Purple Effect Bullet Impact Explosion 32x32_15: -1753115023
+      Purple Effect Bullet Impact Explosion 32x32_150: -945018943
+      Purple Effect Bullet Impact Explosion 32x32_151: -1345546974
+      Purple Effect Bullet Impact Explosion 32x32_152: -555127329
+      Purple Effect Bullet Impact Explosion 32x32_153: 882651823
+      Purple Effect Bullet Impact Explosion 32x32_154: 1314002387
+      Purple Effect Bullet Impact Explosion 32x32_155: -1553560635
+      Purple Effect Bullet Impact Explosion 32x32_156: 1825033524
+      Purple Effect Bullet Impact Explosion 32x32_157: 2138156532
+      Purple Effect Bullet Impact Explosion 32x32_158: -1027295772
+      Purple Effect Bullet Impact Explosion 32x32_159: -1863387673
+      Purple Effect Bullet Impact Explosion 32x32_16: 374635610
+      Purple Effect Bullet Impact Explosion 32x32_160: 2047478583
+      Purple Effect Bullet Impact Explosion 32x32_161: 1558151395
+      Purple Effect Bullet Impact Explosion 32x32_162: -1335055435
+      Purple Effect Bullet Impact Explosion 32x32_163: 824791267
+      Purple Effect Bullet Impact Explosion 32x32_164: -828028207
+      Purple Effect Bullet Impact Explosion 32x32_165: -786842605
+      Purple Effect Bullet Impact Explosion 32x32_166: 1224356028
+      Purple Effect Bullet Impact Explosion 32x32_167: 923999454
+      Purple Effect Bullet Impact Explosion 32x32_168: 766894087
+      Purple Effect Bullet Impact Explosion 32x32_169: 1249803502
+      Purple Effect Bullet Impact Explosion 32x32_17: -1678093663
+      Purple Effect Bullet Impact Explosion 32x32_170: -1254653951
+      Purple Effect Bullet Impact Explosion 32x32_171: -701033055
+      Purple Effect Bullet Impact Explosion 32x32_172: -74771775
+      Purple Effect Bullet Impact Explosion 32x32_173: 1841760601
+      Purple Effect Bullet Impact Explosion 32x32_174: -1993600826
+      Purple Effect Bullet Impact Explosion 32x32_175: -1989956152
+      Purple Effect Bullet Impact Explosion 32x32_176: 1182212573
+      Purple Effect Bullet Impact Explosion 32x32_177: 1414119504
+      Purple Effect Bullet Impact Explosion 32x32_178: -1452348951
+      Purple Effect Bullet Impact Explosion 32x32_179: 529659404
+      Purple Effect Bullet Impact Explosion 32x32_18: 1147220671
+      Purple Effect Bullet Impact Explosion 32x32_180: 2075371782
+      Purple Effect Bullet Impact Explosion 32x32_181: 730248621
+      Purple Effect Bullet Impact Explosion 32x32_182: -1472983929
+      Purple Effect Bullet Impact Explosion 32x32_183: -724674143
+      Purple Effect Bullet Impact Explosion 32x32_184: 1377791863
+      Purple Effect Bullet Impact Explosion 32x32_185: -1048868637
+      Purple Effect Bullet Impact Explosion 32x32_186: 610776154
+      Purple Effect Bullet Impact Explosion 32x32_187: -1031444878
+      Purple Effect Bullet Impact Explosion 32x32_188: 1690659539
+      Purple Effect Bullet Impact Explosion 32x32_189: -70188337
+      Purple Effect Bullet Impact Explosion 32x32_19: 1845487037
+      Purple Effect Bullet Impact Explosion 32x32_190: -1523766225
+      Purple Effect Bullet Impact Explosion 32x32_191: 988014961
+      Purple Effect Bullet Impact Explosion 32x32_192: 1412617806
+      Purple Effect Bullet Impact Explosion 32x32_193: 216838321
+      Purple Effect Bullet Impact Explosion 32x32_194: -90846140
+      Purple Effect Bullet Impact Explosion 32x32_195: 1042993553
+      Purple Effect Bullet Impact Explosion 32x32_196: -2118116536
+      Purple Effect Bullet Impact Explosion 32x32_197: -1853268379
+      Purple Effect Bullet Impact Explosion 32x32_198: 993015283
+      Purple Effect Bullet Impact Explosion 32x32_199: 59952952
+      Purple Effect Bullet Impact Explosion 32x32_2: -1137694730
+      Purple Effect Bullet Impact Explosion 32x32_20: -1748731159
+      Purple Effect Bullet Impact Explosion 32x32_200: -555066825
+      Purple Effect Bullet Impact Explosion 32x32_201: -1955409466
+      Purple Effect Bullet Impact Explosion 32x32_202: 455820514
+      Purple Effect Bullet Impact Explosion 32x32_203: -1426559947
+      Purple Effect Bullet Impact Explosion 32x32_204: -1848287685
+      Purple Effect Bullet Impact Explosion 32x32_205: -1369225264
+      Purple Effect Bullet Impact Explosion 32x32_206: -894470653
+      Purple Effect Bullet Impact Explosion 32x32_207: 220956936
+      Purple Effect Bullet Impact Explosion 32x32_208: -1168619277
+      Purple Effect Bullet Impact Explosion 32x32_209: -1608720681
+      Purple Effect Bullet Impact Explosion 32x32_21: -2041590428
+      Purple Effect Bullet Impact Explosion 32x32_210: 1903634618
+      Purple Effect Bullet Impact Explosion 32x32_211: 1765115794
+      Purple Effect Bullet Impact Explosion 32x32_212: 634796109
+      Purple Effect Bullet Impact Explosion 32x32_213: -2064899951
+      Purple Effect Bullet Impact Explosion 32x32_214: 1982506732
+      Purple Effect Bullet Impact Explosion 32x32_215: 912980789
+      Purple Effect Bullet Impact Explosion 32x32_216: 1955942227
+      Purple Effect Bullet Impact Explosion 32x32_217: 1884732898
+      Purple Effect Bullet Impact Explosion 32x32_218: -1052011799
+      Purple Effect Bullet Impact Explosion 32x32_219: -1943697641
+      Purple Effect Bullet Impact Explosion 32x32_22: 269116030
+      Purple Effect Bullet Impact Explosion 32x32_220: -1744904683
+      Purple Effect Bullet Impact Explosion 32x32_221: 430355584
+      Purple Effect Bullet Impact Explosion 32x32_222: 28477026
+      Purple Effect Bullet Impact Explosion 32x32_223: -904844674
+      Purple Effect Bullet Impact Explosion 32x32_224: 514098112
+      Purple Effect Bullet Impact Explosion 32x32_225: -1700224302
+      Purple Effect Bullet Impact Explosion 32x32_226: -1747455541
+      Purple Effect Bullet Impact Explosion 32x32_227: 451032504
+      Purple Effect Bullet Impact Explosion 32x32_228: 1127103733
+      Purple Effect Bullet Impact Explosion 32x32_229: -354112600
+      Purple Effect Bullet Impact Explosion 32x32_23: 2037870032
+      Purple Effect Bullet Impact Explosion 32x32_230: 123002141
+      Purple Effect Bullet Impact Explosion 32x32_231: 1758578082
+      Purple Effect Bullet Impact Explosion 32x32_232: 1675572603
+      Purple Effect Bullet Impact Explosion 32x32_233: 1703278938
+      Purple Effect Bullet Impact Explosion 32x32_234: 1240807721
+      Purple Effect Bullet Impact Explosion 32x32_235: 1152860378
+      Purple Effect Bullet Impact Explosion 32x32_236: -1649368479
+      Purple Effect Bullet Impact Explosion 32x32_237: 9671836
+      Purple Effect Bullet Impact Explosion 32x32_238: -978339679
+      Purple Effect Bullet Impact Explosion 32x32_239: 1587285165
+      Purple Effect Bullet Impact Explosion 32x32_24: -2106642108
+      Purple Effect Bullet Impact Explosion 32x32_240: 2023800733
+      Purple Effect Bullet Impact Explosion 32x32_241: 1407427614
+      Purple Effect Bullet Impact Explosion 32x32_242: -2037661471
+      Purple Effect Bullet Impact Explosion 32x32_243: -2057737415
+      Purple Effect Bullet Impact Explosion 32x32_25: -1216488632
+      Purple Effect Bullet Impact Explosion 32x32_26: 715897124
+      Purple Effect Bullet Impact Explosion 32x32_27: 924461601
+      Purple Effect Bullet Impact Explosion 32x32_28: -147370521
+      Purple Effect Bullet Impact Explosion 32x32_29: -188730141
+      Purple Effect Bullet Impact Explosion 32x32_3: -1017303352
+      Purple Effect Bullet Impact Explosion 32x32_30: 1690736055
+      Purple Effect Bullet Impact Explosion 32x32_31: -892137512
+      Purple Effect Bullet Impact Explosion 32x32_32: 448252919
+      Purple Effect Bullet Impact Explosion 32x32_33: -1642207468
+      Purple Effect Bullet Impact Explosion 32x32_34: -2042901029
+      Purple Effect Bullet Impact Explosion 32x32_35: 281465299
+      Purple Effect Bullet Impact Explosion 32x32_36: -1421823468
+      Purple Effect Bullet Impact Explosion 32x32_37: -1531720281
+      Purple Effect Bullet Impact Explosion 32x32_38: 494929045
+      Purple Effect Bullet Impact Explosion 32x32_39: 1394102896
+      Purple Effect Bullet Impact Explosion 32x32_4: 1437436556
+      Purple Effect Bullet Impact Explosion 32x32_40: -1200531112
+      Purple Effect Bullet Impact Explosion 32x32_41: 61868330
+      Purple Effect Bullet Impact Explosion 32x32_42: 1763623866
+      Purple Effect Bullet Impact Explosion 32x32_43: -1061052691
+      Purple Effect Bullet Impact Explosion 32x32_44: -143239596
+      Purple Effect Bullet Impact Explosion 32x32_45: 1713179482
+      Purple Effect Bullet Impact Explosion 32x32_46: -2085895034
+      Purple Effect Bullet Impact Explosion 32x32_47: 644667903
+      Purple Effect Bullet Impact Explosion 32x32_48: 14913256
+      Purple Effect Bullet Impact Explosion 32x32_49: 952206297
+      Purple Effect Bullet Impact Explosion 32x32_5: 1121769303
+      Purple Effect Bullet Impact Explosion 32x32_50: 972660883
+      Purple Effect Bullet Impact Explosion 32x32_51: 1250597784
+      Purple Effect Bullet Impact Explosion 32x32_52: 110011912
+      Purple Effect Bullet Impact Explosion 32x32_53: -631323168
+      Purple Effect Bullet Impact Explosion 32x32_54: 1015827162
+      Purple Effect Bullet Impact Explosion 32x32_55: 91342180
+      Purple Effect Bullet Impact Explosion 32x32_56: -1806140479
+      Purple Effect Bullet Impact Explosion 32x32_57: -1549514657
+      Purple Effect Bullet Impact Explosion 32x32_58: -871769899
+      Purple Effect Bullet Impact Explosion 32x32_59: 1265703864
+      Purple Effect Bullet Impact Explosion 32x32_6: -1542133389
+      Purple Effect Bullet Impact Explosion 32x32_60: 481795773
+      Purple Effect Bullet Impact Explosion 32x32_61: -312960276
+      Purple Effect Bullet Impact Explosion 32x32_62: 76300146
+      Purple Effect Bullet Impact Explosion 32x32_63: 1607820032
+      Purple Effect Bullet Impact Explosion 32x32_64: -301839678
+      Purple Effect Bullet Impact Explosion 32x32_65: -1874330520
+      Purple Effect Bullet Impact Explosion 32x32_66: -967144625
+      Purple Effect Bullet Impact Explosion 32x32_67: -491755266
+      Purple Effect Bullet Impact Explosion 32x32_68: 608232970
+      Purple Effect Bullet Impact Explosion 32x32_69: 1190729870
+      Purple Effect Bullet Impact Explosion 32x32_7: 217395227
+      Purple Effect Bullet Impact Explosion 32x32_70: 502824106
+      Purple Effect Bullet Impact Explosion 32x32_71: 1525846943
+      Purple Effect Bullet Impact Explosion 32x32_72: -262648333
+      Purple Effect Bullet Impact Explosion 32x32_73: -1068962046
+      Purple Effect Bullet Impact Explosion 32x32_74: 1806978139
+      Purple Effect Bullet Impact Explosion 32x32_75: 2072701404
+      Purple Effect Bullet Impact Explosion 32x32_76: 674932935
+      Purple Effect Bullet Impact Explosion 32x32_77: -666309509
+      Purple Effect Bullet Impact Explosion 32x32_78: -1029858580
+      Purple Effect Bullet Impact Explosion 32x32_79: 1699224008
+      Purple Effect Bullet Impact Explosion 32x32_8: 2058875978
+      Purple Effect Bullet Impact Explosion 32x32_80: 1134862794
+      Purple Effect Bullet Impact Explosion 32x32_81: 1925127925
+      Purple Effect Bullet Impact Explosion 32x32_82: -544172789
+      Purple Effect Bullet Impact Explosion 32x32_83: -153662371
+      Purple Effect Bullet Impact Explosion 32x32_84: -643158752
+      Purple Effect Bullet Impact Explosion 32x32_85: -2139018886
+      Purple Effect Bullet Impact Explosion 32x32_86: -5124581
+      Purple Effect Bullet Impact Explosion 32x32_87: 232355572
+      Purple Effect Bullet Impact Explosion 32x32_88: -1400873932
+      Purple Effect Bullet Impact Explosion 32x32_89: -967217071
+      Purple Effect Bullet Impact Explosion 32x32_9: -70928963
+      Purple Effect Bullet Impact Explosion 32x32_90: -1078101786
+      Purple Effect Bullet Impact Explosion 32x32_91: -619495064
+      Purple Effect Bullet Impact Explosion 32x32_92: 1864431216
+      Purple Effect Bullet Impact Explosion 32x32_93: 216036135
+      Purple Effect Bullet Impact Explosion 32x32_94: -1724045442
+      Purple Effect Bullet Impact Explosion 32x32_95: -680578030
+      Purple Effect Bullet Impact Explosion 32x32_96: 1707984520
+      Purple Effect Bullet Impact Explosion 32x32_97: 503322982
+      Purple Effect Bullet Impact Explosion 32x32_98: -1972183593
+      Purple Effect Bullet Impact Explosion 32x32_99: 919935976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
