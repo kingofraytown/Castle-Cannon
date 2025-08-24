@@ -109,7 +109,7 @@ MonoBehaviour:
   speed: 12
   deathTime: 0.4
   deathTimer: 0
-  animator: {fileID: 0}
+  animator: {fileID: 8409077638786840092}
   enemyBullet: 0
   decreaseSpeedOverTime: 0
   decreaseSpeedRate: 0
@@ -118,10 +118,12 @@ MonoBehaviour:
   increaseSizeOverTime: 0
   increaseSizeRate: 0
   eSpeed: 0
-  restoreScale: {x: 0, y: 0, z: 0}
+  restoreScale: {x: 2.4, y: 2.4, z: 2.4}
   bomb: 0
   hasExplosion: 0
   explosionAnimator: {fileID: 0}
+  bulletStrength: 5
+  bulletHealth: 3
   currentState: 3
 --- !u!61 &1626804349426336602
 BoxCollider2D:

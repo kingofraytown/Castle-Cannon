@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8eb075ad240cbfd1ebc7741d0b9b4b0e:7155a327368b27d4579045da74ec62d0:bb6671a8fcc805768cd0ecdee9ea96cf$
+#
+:format=40300
+:texture=cc_sprite_sheet_2.png
+:size=64x64
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+enemy_2;1;31;32;32; 0.5;0.5; 0;0;0;0
+enemy_2_debris_1;35;7;11;10; 0.5;0.5; 0;0;0;0
+enemy_2_debris_2;48;1;8;10; 0.5;0.5; 0;0;0;0
+enemy_2_debris_3;47;22;12;8; 0.5;0.5; 0;0;0;0
+enemy_2_debris_4;35;45;20;18; 0.5;0.5; 0;0;0;0
+enemy_3;1;8;32;21; 0.5;0.5; 0;0;0;0
+enemy_3_debris_1;54;32;8;10; 0.5;0.5; 0;0;0;0
+enemy_3_debris_2;48;13;11;7; 0.5;0.5; 0;0;0;0
+enemy_3_debris_3;35;19;10;11; 0.5;0.5; 0;0;0;0
+enemy_3_debris_4;35;32;17;11; 0.5;0.5; 0;0;0;0

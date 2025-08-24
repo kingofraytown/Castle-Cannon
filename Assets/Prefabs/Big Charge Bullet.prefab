@@ -155,6 +155,8 @@ MonoBehaviour:
   bomb: 0
   hasExplosion: 0
   explosionAnimator: {fileID: 0}
+  bulletStrength: 3
+  bulletHealth: 2
   currentState: 3
 --- !u!61 &1599357347562494433
 BoxCollider2D:

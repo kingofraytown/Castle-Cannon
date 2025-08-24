@@ -41,8 +41,9 @@ public class PlayerHealth : MonoBehaviour
         {
             if (shield <= 0)
             {
-                PlayerDamageEvent(d);
+                
                 health -= d;
+                PlayerDamageEvent(d);
             }
             if (health <= 0)
             {

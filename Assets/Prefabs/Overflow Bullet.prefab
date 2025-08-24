@@ -293,11 +293,13 @@ MonoBehaviour:
   increaseSizeOverTime: 0
   increaseSizeRate: 0
   eSpeed: 0
-  restoreScale: {x: 0, y: 0, z: 0}
+  restoreScale: {x: 1.85, y: 1.85, z: 1.85}
   bomb: 0
   hasExplosion: 0
   explosionAnimator: {fileID: 0}
-  currentState: 0
+  bulletStrength: 20
+  bulletHealth: 100
+  currentState: 3
 --- !u!58 &8537554642691846985
 CircleCollider2D:
   m_ObjectHideFlags: 0
