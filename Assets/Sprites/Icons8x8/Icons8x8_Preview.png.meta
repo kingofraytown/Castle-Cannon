@@ -163,7 +163,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -177,7 +177,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -201,7 +201,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1197,7 +1197,50 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons8x8_Preview_0: -3187550667062516120
+      Icons8x8_Preview_1: 3654166588628641407
+      Icons8x8_Preview_10: -9084804493115003347
+      Icons8x8_Preview_11: -1064904216714519339
+      Icons8x8_Preview_12: 802039066983700782
+      Icons8x8_Preview_13: 3137400488657234343
+      Icons8x8_Preview_14: 5589094696899673598
+      Icons8x8_Preview_15: 6490746802352310893
+      Icons8x8_Preview_16: 182083665835742160
+      Icons8x8_Preview_17: -5751242943794760799
+      Icons8x8_Preview_18: 3963412121978677471
+      Icons8x8_Preview_19: -1485711532237000322
+      Icons8x8_Preview_2: 4199058490746863849
+      Icons8x8_Preview_20: 1226228976669795531
+      Icons8x8_Preview_21: 6050942213589304275
+      Icons8x8_Preview_22: 1702591419816200861
+      Icons8x8_Preview_23: -3217371199631114371
+      Icons8x8_Preview_24: -4427850888940370823
+      Icons8x8_Preview_25: -230285518716739608
+      Icons8x8_Preview_26: 5014129238125669064
+      Icons8x8_Preview_27: 3434111739198171722
+      Icons8x8_Preview_28: 328119267490262088
+      Icons8x8_Preview_29: -4301511638942063497
+      Icons8x8_Preview_3: 4211471206916830285
+      Icons8x8_Preview_30: -6774830022059911408
+      Icons8x8_Preview_31: -6274095792640612050
+      Icons8x8_Preview_32: 7703419558230497930
+      Icons8x8_Preview_33: -1763451591990924575
+      Icons8x8_Preview_34: 7412817378847200958
+      Icons8x8_Preview_35: -8261322703681359150
+      Icons8x8_Preview_36: 483618102482258979
+      Icons8x8_Preview_37: 7096526345019323834
+      Icons8x8_Preview_38: 2470756357408945664
+      Icons8x8_Preview_39: 8594108536346395229
+      Icons8x8_Preview_4: 4850909876248727423
+      Icons8x8_Preview_40: -5898844243165664848
+      Icons8x8_Preview_41: 2554135750019793970
+      Icons8x8_Preview_42: 5708557929366141201
+      Icons8x8_Preview_5: 5949498058199435859
+      Icons8x8_Preview_6: -6230616144779723282
+      Icons8x8_Preview_7: 6708760648331681157
+      Icons8x8_Preview_8: -6465248052897136700
+      Icons8x8_Preview_9: -468497887321696042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

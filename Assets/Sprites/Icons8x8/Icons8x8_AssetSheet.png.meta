@@ -163,7 +163,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -177,7 +177,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -201,7 +201,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1197,7 +1197,50 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons8x8_AssetSheet_0: -7422957365455290773
+      Icons8x8_AssetSheet_1: 8774182580412572020
+      Icons8x8_AssetSheet_10: 8192944980317719620
+      Icons8x8_AssetSheet_11: -7904070792924657067
+      Icons8x8_AssetSheet_12: -7455485690163302603
+      Icons8x8_AssetSheet_13: -7037303560495167506
+      Icons8x8_AssetSheet_14: -7687280178952111534
+      Icons8x8_AssetSheet_15: 8055601608045407948
+      Icons8x8_AssetSheet_16: -9078454540489815121
+      Icons8x8_AssetSheet_17: -8250126969044096293
+      Icons8x8_AssetSheet_18: -5100716566502370973
+      Icons8x8_AssetSheet_19: 2369681378421020718
+      Icons8x8_AssetSheet_2: 8218919857965967309
+      Icons8x8_AssetSheet_20: -2488783532147671184
+      Icons8x8_AssetSheet_21: -8429138227154725590
+      Icons8x8_AssetSheet_22: 3035614327982609610
+      Icons8x8_AssetSheet_23: -4277101117784027172
+      Icons8x8_AssetSheet_24: 1253866753672991289
+      Icons8x8_AssetSheet_25: 6986124289748494160
+      Icons8x8_AssetSheet_26: 4794903994244893486
+      Icons8x8_AssetSheet_27: -8667016294246536305
+      Icons8x8_AssetSheet_28: -2791755048465910900
+      Icons8x8_AssetSheet_29: -5924690130856473974
+      Icons8x8_AssetSheet_3: -8448356153900086173
+      Icons8x8_AssetSheet_30: 2546619787782133322
+      Icons8x8_AssetSheet_31: -8626308472515439335
+      Icons8x8_AssetSheet_32: 6156608571953738332
+      Icons8x8_AssetSheet_33: 2985700290432260436
+      Icons8x8_AssetSheet_34: 3984928209786466472
+      Icons8x8_AssetSheet_35: -49297530573772241
+      Icons8x8_AssetSheet_36: -754320037736348467
+      Icons8x8_AssetSheet_37: -6673650763362825187
+      Icons8x8_AssetSheet_38: 5659159243360588400
+      Icons8x8_AssetSheet_39: -5322745927552166426
+      Icons8x8_AssetSheet_4: -3867242889661309030
+      Icons8x8_AssetSheet_40: -5406757036818671064
+      Icons8x8_AssetSheet_41: 854161843294452818
+      Icons8x8_AssetSheet_42: 4232373124284651741
+      Icons8x8_AssetSheet_5: 1231833199485245487
+      Icons8x8_AssetSheet_6: 2661225959477004072
+      Icons8x8_AssetSheet_7: -2868293205415275699
+      Icons8x8_AssetSheet_8: -1944370833533588214
+      Icons8x8_AssetSheet_9: 5610915407099245041
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

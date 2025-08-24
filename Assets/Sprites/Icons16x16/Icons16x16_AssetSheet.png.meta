@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -221,10 +221,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 83
-        width: 11
-        height: 10
+        x: 0
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +243,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 83
-        width: 11
-        height: 10
+        x: 16
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,10 +265,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 83
-        width: 11
-        height: 10
+        x: 32
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,10 +287,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_3
       rect:
         serializedVersion: 2
-        x: 50
-        y: 83
-        width: 11
-        height: 10
+        x: 48
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +309,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_4
       rect:
         serializedVersion: 2
-        x: 66
-        y: 83
-        width: 11
-        height: 10
+        x: 64
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_5
       rect:
         serializedVersion: 2
-        x: 82
-        y: 83
-        width: 11
-        height: 10
+        x: 80
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_6
       rect:
         serializedVersion: 2
-        x: 4
-        y: 66
-        width: 7
-        height: 13
+        x: 0
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,10 +375,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_7
       rect:
         serializedVersion: 2
-        x: 20
-        y: 66
-        width: 7
-        height: 13
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,10 +397,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_8
       rect:
         serializedVersion: 2
-        x: 36
-        y: 66
-        width: 7
-        height: 13
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,10 +419,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_9
       rect:
         serializedVersion: 2
-        x: 52
-        y: 66
-        width: 7
-        height: 13
+        x: 48
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,10 +441,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_10
       rect:
         serializedVersion: 2
-        x: 68
-        y: 66
-        width: 7
-        height: 13
+        x: 64
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,10 +463,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_11
       rect:
         serializedVersion: 2
-        x: 84
-        y: 66
-        width: 7
-        height: 13
+        x: 80
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,10 +485,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_12
       rect:
         serializedVersion: 2
-        x: 1
-        y: 33
-        width: 14
-        height: 14
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,10 +507,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_13
       rect:
         serializedVersion: 2
-        x: 2
-        y: 47
-        width: 12
-        height: 18
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,10 +529,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_14
       rect:
         serializedVersion: 2
-        x: 17
-        y: 33
-        width: 14
-        height: 14
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,10 +551,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_15
       rect:
         serializedVersion: 2
-        x: 18
-        y: 47
-        width: 12
-        height: 18
+        x: 48
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,10 +573,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_16
       rect:
         serializedVersion: 2
-        x: 34
-        y: 47
-        width: 12
-        height: 18
+        x: 64
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,10 +595,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_17
       rect:
         serializedVersion: 2
-        x: 50
-        y: 47
-        width: 12
-        height: 18
+        x: 80
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_18
       rect:
         serializedVersion: 2
-        x: 66
-        y: 47
-        width: 12
-        height: 18
+        x: 0
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,10 +639,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_19
       rect:
         serializedVersion: 2
-        x: 82
-        y: 47
-        width: 12
-        height: 18
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,10 +661,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_20
       rect:
         serializedVersion: 2
-        x: 34
-        y: 35
-        width: 12
-        height: 9
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -683,10 +683,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_21
       rect:
         serializedVersion: 2
-        x: 50
-        y: 35
-        width: 12
-        height: 9
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,10 +705,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_22
       rect:
         serializedVersion: 2
-        x: 67
-        y: 34
-        width: 9
-        height: 12
+        x: 64
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,10 +727,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_23
       rect:
         serializedVersion: 2
-        x: 83
-        y: 34
-        width: 9
-        height: 12
+        x: 80
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,9 +750,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 17
-        width: 17
-        height: 14
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -771,10 +771,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_25
       rect:
         serializedVersion: 2
-        x: 17
+        x: 16
         y: 16
-        width: 14
-        height: 15
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -793,9 +793,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_26
       rect:
         serializedVersion: 2
-        x: 35
+        x: 32
         y: 16
-        width: 9
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -815,9 +815,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_27
       rect:
         serializedVersion: 2
-        x: 50
+        x: 48
         y: 16
-        width: 12
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -837,10 +837,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_28
       rect:
         serializedVersion: 2
-        x: 66
-        y: 18
-        width: 11
-        height: 12
+        x: 64
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,10 +859,10 @@ TextureImporter:
       name: Icons16x16_AssetSheet_29
       rect:
         serializedVersion: 2
-        x: 83
-        y: 17
-        width: 10
-        height: 14
+        x: 80
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,9 +881,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_30
       rect:
         serializedVersion: 2
-        x: 2
+        x: 0
         y: 0
-        width: 11
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -903,9 +903,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_31
       rect:
         serializedVersion: 2
-        x: 18
+        x: 16
         y: 0
-        width: 11
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -925,9 +925,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_32
       rect:
         serializedVersion: 2
-        x: 34
+        x: 32
         y: 0
-        width: 11
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -947,9 +947,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_33
       rect:
         serializedVersion: 2
-        x: 50
+        x: 48
         y: 0
-        width: 11
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -969,9 +969,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_34
       rect:
         serializedVersion: 2
-        x: 66
+        x: 64
         y: 0
-        width: 11
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -991,9 +991,9 @@ TextureImporter:
       name: Icons16x16_AssetSheet_35
       rect:
         serializedVersion: 2
-        x: 82
+        x: 80
         y: 0
-        width: 11
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1013,7 +1013,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2ab9c4531a1678e43b50651bfd0f4e6a
     internalID: 0
     vertices: []
     indices: 
@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons16x16_AssetSheet_0: -6012173033628274058
+      Icons16x16_AssetSheet_1: 9163762466524778204
+      Icons16x16_AssetSheet_10: 3198856377982864594
+      Icons16x16_AssetSheet_11: -5555795421007350709
+      Icons16x16_AssetSheet_12: -4246129945439780372
+      Icons16x16_AssetSheet_13: -2295173285996822368
+      Icons16x16_AssetSheet_14: -3432615640051496394
+      Icons16x16_AssetSheet_15: -6278876254584689
+      Icons16x16_AssetSheet_16: -7596570865459133421
+      Icons16x16_AssetSheet_17: 6265862548621248310
+      Icons16x16_AssetSheet_18: -8795022600373651473
+      Icons16x16_AssetSheet_19: 1421246795866186407
+      Icons16x16_AssetSheet_2: 408875674332458000
+      Icons16x16_AssetSheet_20: -1181742018462366519
+      Icons16x16_AssetSheet_21: -3708173453286978772
+      Icons16x16_AssetSheet_22: 463708853674731439
+      Icons16x16_AssetSheet_23: 1291214530810575508
+      Icons16x16_AssetSheet_24: -8242695204408904847
+      Icons16x16_AssetSheet_25: 4285951228673334969
+      Icons16x16_AssetSheet_26: 3982962649870977070
+      Icons16x16_AssetSheet_27: -7632129991832822040
+      Icons16x16_AssetSheet_28: -6964776310831557156
+      Icons16x16_AssetSheet_29: 1614398513711743696
+      Icons16x16_AssetSheet_3: 7895071936350338348
+      Icons16x16_AssetSheet_30: 5736082312486506119
+      Icons16x16_AssetSheet_31: -6423588273563277738
+      Icons16x16_AssetSheet_32: -6006154699701050201
+      Icons16x16_AssetSheet_33: 3432032349120081726
+      Icons16x16_AssetSheet_34: 2885378657577104849
+      Icons16x16_AssetSheet_35: 7282141921280822265
+      Icons16x16_AssetSheet_4: 3283087514732270479
+      Icons16x16_AssetSheet_5: -4107834506707164875
+      Icons16x16_AssetSheet_6: -620843049791906383
+      Icons16x16_AssetSheet_7: -7082804223454143537
+      Icons16x16_AssetSheet_8: 1950971826954034237
+      Icons16x16_AssetSheet_9: -3202039683501149274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

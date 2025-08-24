@@ -27,12 +27,19 @@ public class GameManager : MonoBehaviour
     public void ShowCredits()
     {
         //change to instructions screen 
-        SceneManager.LoadScene("CreditsScene");
+        SceneManager.LoadScene("Credits");
     }
 
     public void Replay()
     {
         //change to instructions screen 
         SceneManager.LoadScene("GameScene");
+    }
+
+    public void BackToTitle()
+    {
+        //change to instructions screen 
+        SceneManager.LoadScene("Title");
+        bgm.Stop();
     }
 }

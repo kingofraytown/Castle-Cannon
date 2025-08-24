@@ -25,6 +25,11 @@ public class EnemyController : MonoBehaviour
     public float speed;
     public bool isDying = false;
     public float stopDistance;
+    public int deathDamage;
+    public bool lastEnemy = false;
+
+    public delegate void LastEnemyDied();
+    public static event LastEnemyDied EndLevelEvent;
     //public bool shootStraight = false;
 
     // Start is called before the first frame update
@@ -120,5 +125,32 @@ public class EnemyController : MonoBehaviour
         //explosion.TriggerVFX();
         animator.SetBool("dead", true);
         //bag.DropItems();
+        if (lastEnemy)
+        {
+            EndLevelEvent();
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        PlayerHealth ph = collision.gameObject.GetComponent<PlayerHealth>();
+
+        string source = "Enemy";
+        string sourceAmmo = "Enemy_Bullet";
+
+
+
+
+        if (collision.gameObject.tag != source && collision.gameObject.tag != sourceAmmo)
+        {
+            if (ph != null)
+            {
+                
+                health.TakeDamage(5);
+                ph.TakeDamage(deathDamage);
+            }
+            
+        }
+
     }
 }

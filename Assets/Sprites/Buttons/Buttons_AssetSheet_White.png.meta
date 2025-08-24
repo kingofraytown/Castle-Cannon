@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -141,12 +141,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 79
-        width: 48
-        height: 17
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -162,13 +162,13 @@ TextureImporter:
       name: Buttons_AssetSheet_White_1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 65
-        width: 15
-        height: 14
+        x: 16
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -184,13 +184,13 @@ TextureImporter:
       name: Buttons_AssetSheet_White_2
       rect:
         serializedVersion: 2
-        x: 17
-        y: 64
-        width: 14
-        height: 15
+        x: 32
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
       customData: 
       outline: []
       physicsShape: []
@@ -206,19 +206,19 @@ TextureImporter:
       name: Buttons_AssetSheet_White_3
       rect:
         serializedVersion: 2
-        x: 33
-        y: 65
-        width: 14
-        height: 14
+        x: 0
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 91c8eec1e567c9440800000000000000
+      spriteID: cd94592f885999d4489ca14d45bc32c3
       internalID: 4943956637530360857
       vertices: []
       indices: 
@@ -228,19 +228,19 @@ TextureImporter:
       name: Buttons_AssetSheet_White_4
       rect:
         serializedVersion: 2
-        x: 2
-        y: 50
-        width: 12
-        height: 12
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3db781b12ed1d4840800000000000000
+      spriteID: 2063a88349df1e24eb9d420900eb4e09
       internalID: 5209853200891935699
       vertices: []
       indices: 
@@ -250,19 +250,19 @@ TextureImporter:
       name: Buttons_AssetSheet_White_5
       rect:
         serializedVersion: 2
-        x: 18
-        y: 50
-        width: 12
-        height: 12
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 564c579d957854b50800000000000000
+      spriteID: 13ba63d891bd7df48b1b694d4a6597a9
       internalID: 6576811650814690405
       vertices: []
       indices: 
@@ -272,19 +272,19 @@ TextureImporter:
       name: Buttons_AssetSheet_White_6
       rect:
         serializedVersion: 2
-        x: 34
-        y: 50
-        width: 12
-        height: 12
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b6f39e5a52e2cb390800000000000000
+      spriteID: 27c4d4ed176bddb4b8b1f1d6d9a57cf2
       internalID: -7801309715280347285
       vertices: []
       indices: 
@@ -294,19 +294,19 @@ TextureImporter:
       name: Buttons_AssetSheet_White_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 15
-        width: 48
-        height: 34
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4fbf4b7ee0939cc20800000000000000
+      spriteID: aab7e388290328a4ba548336e79e9f44
       internalID: 3227173344167394292
       vertices: []
       indices: 
@@ -316,20 +316,152 @@ TextureImporter:
       name: Buttons_AssetSheet_White_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 48
+        x: 32
+        y: 48
+        width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2f02fdb9a9310e770800000000000000
+      spriteID: 08ab78399f8b26e4e8229557a59ba84c
       internalID: 8637925640057594098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_AssetSheet_White_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa3c9cffaca84d4cbcb622edd2e27ff
+      internalID: 1234771518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_AssetSheet_White_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0561021da9a6744876b27e9617d85d
+      internalID: -260001180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_AssetSheet_White_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303db5e32fc1f240a0e8a4c2b4fed01
+      internalID: -436063632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_AssetSheet_White_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33870f1ce2ae2b4091133e51185bc0b
+      internalID: 1286479631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_AssetSheet_White_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618862b2d1d691f4f80d66716419e132
+      internalID: -763891634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_AssetSheet_White_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10932f4b2d49a2947b28bd8a7256f281
+      internalID: -1285041741
       vertices: []
       indices: 
       edges: []
@@ -338,7 +470,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e9713ef67e1201045bcc78d09fea0a8e
     internalID: 0
     vertices: []
     indices: 
@@ -347,7 +479,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Buttons_AssetSheet_White_0: -4260053518411285472
+      Buttons_AssetSheet_White_1: 1022568868532191433
+      Buttons_AssetSheet_White_10: -1684007666
+      Buttons_AssetSheet_White_11: -260001180
+      Buttons_AssetSheet_White_12: -436063632
+      Buttons_AssetSheet_White_13: 1892653319
+      Buttons_AssetSheet_White_14: 1286479631
+      Buttons_AssetSheet_White_15: -763891634
+      Buttons_AssetSheet_White_16: -934871819
+      Buttons_AssetSheet_White_17: -1285041741
+      Buttons_AssetSheet_White_2: -4826617702688466417
+      Buttons_AssetSheet_White_3: 4943956637530360857
+      Buttons_AssetSheet_White_4: 5209853200891935699
+      Buttons_AssetSheet_White_5: 6576811650814690405
+      Buttons_AssetSheet_White_6: -7801309715280347285
+      Buttons_AssetSheet_White_7: 3227173344167394292
+      Buttons_AssetSheet_White_8: 8637925640057594098
+      Buttons_AssetSheet_White_9: 1234771518
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

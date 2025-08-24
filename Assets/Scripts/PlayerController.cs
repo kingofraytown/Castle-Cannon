@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
     public Animator castleAnimator;
     public Animator cannonAnimator;
     public Animator damageAnimator;
-
+    public Animator gameoverAnimator;
     public enum ChargeState
     {
         None,
@@ -45,15 +45,19 @@ public class PlayerController : MonoBehaviour
     public Gun bigChargeShot;
     public Gun biggerChargeShot;
     public Gun overFlowShot;
-
+    public GameObject winPanel;
+    public GameObject losePanel;
+    public bool isPaused = false;
     private void OnEnable()
     {
         PlayerHealth.PlayerDamageEvent += PlayerHit;
+        EnemyController.EndLevelEvent += WinLevel;
     }
 
     private void OnDisable()
     {
         PlayerHealth.PlayerDamageEvent -= PlayerHit;
+        EnemyController.EndLevelEvent -= WinLevel;
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -64,24 +68,26 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        if (isHurt)
+        if (!isPaused)
         {
-            hurtTimer -= Time.deltaTime;
-
-            if (hurtTimer <= 0)
+            if (isHurt)
             {
-                isHurt = false;
+                hurtTimer -= Time.deltaTime;
+
+                if (hurtTimer <= 0)
+                {
+                    isHurt = false;
+                }
+
             }
+            ChargeCannon();
+            UpdatePowerBar();
 
-        }
-        ChargeCannon();
-        UpdatePowerBar();
-
-        if (Input.GetKeyUp(KeyCode.Space))
-        {
-            Debug.Log("fire the cannon");
-            FireCannon();
+            if (Input.GetKeyUp(KeyCode.Space))
+            {
+                Debug.Log("fire the cannon");
+                FireCannon();
+            }
         }
 
     }
@@ -230,6 +236,7 @@ public class PlayerController : MonoBehaviour
                 currentHealthState = HealthState.Destroyed;
                 castleAnimator.SetInteger("castle-health", 0);
                 damageAnimator.SetTrigger("dvfx2");
+                GameOver();
             }
         }
 
@@ -244,5 +251,18 @@ public class PlayerController : MonoBehaviour
             healthBar.health = health.health;
             UpdateHealthState();
         }
+    }
+
+    public void WinLevel()
+    {
+        isPaused = true;
+        winPanel.SetActive(true);
+    }
+
+    public void GameOver()
+    {
+        isPaused = true;
+        losePanel.SetActive(true);
+        gameoverAnimator.SetTrigger("start");
     }
 }
