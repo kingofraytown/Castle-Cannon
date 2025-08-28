@@ -8,6 +8,7 @@ public class PlayerHealth : MonoBehaviour
     public int shield;
     public float damageTime;
     public float damageTimer;
+    public Animator dAnimator;
 
     public delegate void TakeDamageDelegate(int damage);
     public static event TakeDamageDelegate PlayerDamageEvent;

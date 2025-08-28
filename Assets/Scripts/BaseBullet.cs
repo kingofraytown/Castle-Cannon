@@ -26,6 +26,9 @@ public class BaseBullet : MonoBehaviour
     public Animator explosionAnimator;
     public int bulletStrength;
     public int bulletHealth;
+    public bool inCollision = false;
+    public int restoreStrength;
+    public int restoreHealth;
     public enum BulletStates
     {
         Active,
@@ -40,6 +43,8 @@ public class BaseBullet : MonoBehaviour
     void Start()
     {
         restoreScale = transform.localScale;
+        //restoreHealth = bulletHealth;
+        //restoreStrength = bulletStrength;
     }
 
     // Update is called once per frame
@@ -103,6 +108,15 @@ public class BaseBullet : MonoBehaviour
                 }
             }
         }
+
+        if(bulletHealth <= 0)
+        {
+            if(currentState != BulletStates.Hit || currentState != BulletStates.Blocked)
+            {
+                ChangeState(BulletStates.Hit);
+                deathTimer = deathTime;
+            }
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -135,6 +149,9 @@ public class BaseBullet : MonoBehaviour
         transform.localScale = restoreScale;
         transform.rotation = Quaternion.Euler(0, 0, 0);
         isDying = false;
+        inCollision = false;
+        bulletStrength = restoreStrength;
+        bulletHealth = restoreHealth;
     }
 
     public void Die()
@@ -144,94 +161,121 @@ public class BaseBullet : MonoBehaviour
 
     }
 
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        inCollision = false;
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Breakable b = collision.gameObject.GetComponent<Breakable>();
-        PlayerHealth ph = collision.gameObject.GetComponent<PlayerHealth>();
-        BaseBullet bb = collision.gameObject.GetComponent<BaseBullet>();
-
-        string source = "Player";
-        string sourceAmmo = "Player-Bullet";
-
-        if (enemyBullet)
+        if (inCollision == false)
         {
-            source = "Enemy";
-            sourceAmmo = "Enemy_Bullet";
-        }
+            Breakable b = collision.gameObject.GetComponent<Breakable>();
+            PlayerHealth ph = collision.gameObject.GetComponent<PlayerHealth>();
+            BaseBullet bb = collision.gameObject.GetComponent<BaseBullet>();
 
-        
+            string source = "Player";
+            string sourceAmmo = "Player-Bullet";
 
-        if (collision.gameObject.tag != source && collision.gameObject.tag != sourceAmmo)
-        {
-            if (b != null)
+            if (enemyBullet)
             {
-                if(b.health >= bulletHealth)
+                source = "Enemy";
+                sourceAmmo = "Enemy_Bullet";
+            }
+
+
+
+            if (collision.gameObject.tag != source && collision.gameObject.tag != sourceAmmo)
+            {
+                if (b != null)
                 {
-                    isDying = true;
-                } else
-                {
-                    bulletHealth -= b.health;
+                    if (b.health >= bulletHealth)
+                    {
+                        isDying = true;
+                    }
+                    else
+                    {
+                        bulletHealth -= b.health;
+                    }
+                    b.TakeDamage(bulletStrength);
                 }
-                b.TakeDamage(bulletStrength);
-            } else if (ph != null)
-            {
-                if (ph.health >= bulletHealth)
+                else if (ph != null)
                 {
-                    isDying = true;
+                    if (ph.health >= bulletHealth)
+                    {
+                        isDying = true;
+                    }
+                    else
+                    {
+                        bulletHealth -= ph.health;
+                    }
+                    ph.TakeDamage(bulletStrength);
+                }
+                else if (bb != null)
+                {
+                    /*
+                        bb.inCollision = true;
+                        if (bb.bulletHealth >= bulletHealth)
+                        {
+                            isDying = true;
+                        }
+                        else
+                        {
+                            bulletHealth -= bb.bulletHealth;
+                        }
+                        bb.bulletHealth -= bulletStrength;
+                     */
+                    bb.inCollision = true;
+                    if (bb.bulletStrength >= bulletStrength)
+                    {
+                        isDying = true;
+                        bb.bulletHealth -= 1;
+                    }
+                    else
+                    {
+                        bulletHealth -= 1;
+                        bb.bulletHealth -= 1;
+                    }
+                    //bb.bulletHealth -= bulletStrength;
+
+                }
+                if (isDying)
+                {
+                    deathTimer = deathTime;
+
+                    switch (collision.gameObject.tag)
+                    {
+                        case "Ammo 1":
+                        case "Ammo 2":
+                        case "Ammo 3":
+                        case "Ammo 4":
+                        case "Ammo 5":
+                        case "Ammo 6":
+                        case "Ammo 7":
+                        case "Ammo 8":
+                        case "Ammo 9":
+                        case "Health":
+                        case "Shield":
+                            break;
+                        case "Unbreakable":
+                            ChangeState(BulletStates.Blocked);
+                            break;
+                        default:
+                            ChangeState(BulletStates.Hit);
+                            break;
+                    }
+                }
+
+                /*if (collision.gameObject.tag == "Unbreakable")
+                {
+                    ChangeState(BulletStates.Blocked);
                 }
                 else
                 {
-                    bulletHealth -= ph.health;
-                }
-                ph.TakeDamage(bulletStrength);
-            } else if(bb != null)
-            {
-                if (bb.bulletHealth >= bulletHealth)
-                {
-                    isDying = true;
-                }
-                else
-                {
-                    bulletHealth -= bb.bulletHealth;
-                }
-                bb.bulletHealth -= bulletStrength;
-            }
-            if (isDying)
-            {
-                deathTimer = deathTime;
+                    ChangeState(BulletStates.Hit);
+                }*/
 
-                switch (collision.gameObject.tag)
-                {
-                    case "Ammo 1":
-                    case "Ammo 2":
-                    case "Ammo 3":
-                    case "Ammo 4":
-                    case "Ammo 5":
-                    case "Ammo 6":
-                    case "Ammo 7":
-                    case "Ammo 8":
-                    case "Ammo 9":
-                    case "Health":
-                    case "Shield":
-                        break;
-                    case "Unbreakable":
-                        ChangeState(BulletStates.Blocked);
-                        break;
-                    default:
-                        ChangeState(BulletStates.Hit);
-                        break;
-                }
             }
-
-            /*if (collision.gameObject.tag == "Unbreakable")
-            {
-                ChangeState(BulletStates.Blocked);
-            }
-            else
-            {
-                ChangeState(BulletStates.Hit);
-            }*/
-
         }
 
         //Die();

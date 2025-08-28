@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
     public Animator cannonAnimator;
     public Animator damageAnimator;
     public Animator gameoverAnimator;
+    public Animator powerAnimator;
+    public Animator windBlastAnimator;
     public enum ChargeState
     {
         None,
@@ -110,6 +112,7 @@ public class PlayerController : MonoBehaviour
                 currentCharge = 0;
                 UpdateChargeStatus(currentCharge);
                 health.TakeDamage(5);
+                damageAnimator.SetTrigger("dvfx1");
                 break;
             case ChargeState.BigCharge:
                 bigChargeShot.Fire();
@@ -117,6 +120,7 @@ public class PlayerController : MonoBehaviour
                 currentCharge = 0;
                 UpdateChargeStatus(currentCharge);
                 health.TakeDamage(10);
+                damageAnimator.SetTrigger("dvfx2");
                 break;
             case ChargeState.GreatCharge:
                 biggerChargeShot.Fire();
@@ -124,6 +128,7 @@ public class PlayerController : MonoBehaviour
                 currentCharge = 0;
                 UpdateChargeStatus(currentCharge);
                 health.TakeDamage(20);
+                damageAnimator.SetTrigger("dvfx2");
                 break;
             case ChargeState.OverFlow:
                 overFlowShot.Fire();
@@ -131,6 +136,8 @@ public class PlayerController : MonoBehaviour
                 currentCharge = 0;
                 UpdateChargeStatus(currentCharge);
                 health.TakeDamage(40);
+                damageAnimator.SetTrigger("dvfx3");
+                windBlastAnimator.SetTrigger("big-blast");
                 break;
         }
     }
@@ -149,24 +156,28 @@ public class PlayerController : MonoBehaviour
             if(currentChargeState != ChargeState.None)
             {
                 currentChargeState = ChargeState.None;
+                powerAnimator.SetInteger("power-level", 0);
             }
         } else if(charge > 10 && charge <= 25)
         {
             if (currentChargeState != ChargeState.Basic)
             {
                 currentChargeState = ChargeState.Basic;
+                powerAnimator.SetInteger("power-level", 1);
             }
         } else if(charge > 25 && charge <= 50)
         {
             if (currentChargeState != ChargeState.Charge)
             {
                 currentChargeState = ChargeState.Charge;
+                powerAnimator.SetInteger("power-level", 2);
             }
         } else if (charge > 50 && charge <= 75)
         {
             if (currentChargeState != ChargeState.BigCharge)
             {
                 currentChargeState = ChargeState.BigCharge;
+                powerAnimator.SetInteger("power-level", 3);
             }
         }
         else if (charge > 75 && charge <= 100)
@@ -174,12 +185,14 @@ public class PlayerController : MonoBehaviour
             if (currentChargeState != ChargeState.GreatCharge)
             {
                 currentChargeState = ChargeState.GreatCharge;
+                powerAnimator.SetInteger("power-level", 4);
             }
         } else if(charge > 100)
         {
             if (currentChargeState != ChargeState.OverFlow)
             {
                 currentChargeState = ChargeState.OverFlow;
+                powerAnimator.SetInteger("power-level", 5);
             }
         }
     }
@@ -204,7 +217,7 @@ public class PlayerController : MonoBehaviour
             {
                 currentHealthState = HealthState.Damage1;
                 castleAnimator.SetInteger("castle-health", 4);
-                damageAnimator.SetTrigger("dvfx1");
+                
             }
         } else if (health.health <= 75 && health.health > 50)
         {
@@ -212,14 +225,14 @@ public class PlayerController : MonoBehaviour
             {
                 currentHealthState = HealthState.Damage2;
                 castleAnimator.SetInteger("castle-health", 3);
-                damageAnimator.SetTrigger("dvfx2");
+                //damageAnimator.SetTrigger("dvfx2");
             }
         } else if (health.health <= 50 && health.health > 25)
         {
             if (currentHealthState != HealthState.Damage3)
             {
                 currentHealthState = HealthState.Damage3;
-                castleAnimator.SetInteger("castle-health", 2);
+                //castleAnimator.SetInteger("castle-health", 2);
             }
         } else if (health.health < 25 && health.health > 0)
         {
@@ -227,7 +240,7 @@ public class PlayerController : MonoBehaviour
             {
                 currentHealthState = HealthState.Damage4;
                 castleAnimator.SetInteger("castle-health", 1);
-                damageAnimator.SetTrigger("dvfx2");
+                //damageAnimator.SetTrigger("dvfx2");
             }
         }  else if (health.health <= 0)
         {
@@ -247,6 +260,7 @@ public class PlayerController : MonoBehaviour
         if (isHurt == false)
         {
             isHurt = true;
+            //damageAnimator.SetTrigger("dvfx1");
             hurtTimer = hurtTime;
             healthBar.health = health.health;
             UpdateHealthState();

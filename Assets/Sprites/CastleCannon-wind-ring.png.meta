@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 499e62ca1bb3c5c47983b9d62b47ed81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3190545524436550504
+    second: CastleCannon-wind-ring_0
+  - first:
+      213: -1827296501148815602
+    second: CastleCannon-wind-ring_1
+  - first:
+      213: 2462851422700416799
+    second: CastleCannon-wind-ring_2
+  - first:
+      213: -6423788617654110709
+    second: CastleCannon-wind-ring_3
+  - first:
+      213: -1210672814049768170
+    second: CastleCannon-wind-ring_4
+  - first:
+      213: 4121753862447353297
+    second: CastleCannon-wind-ring_5
+  - first:
+      213: 6177157724343055917
+    second: CastleCannon-wind-ring_6
+  - first:
+      213: -2650997699735724890
+    second: CastleCannon-wind-ring_7
+  - first:
+      213: -2296999996340329097
+    second: CastleCannon-wind-ring_8
+  - first:
+      213: 2968283947768743240
+    second: CastleCannon-wind-ring_9
+  - first:
+      213: 1788731888921146498
+    second: CastleCannon-wind-ring_10
+  - first:
+      213: -2503995162406228609
+    second: CastleCannon-wind-ring_11
+  - first:
+      213: -4342711480460429777
+    second: CastleCannon-wind-ring_12
+  - first:
+      213: 5203958229485764995
+    second: CastleCannon-wind-ring_13
+  - first:
+      213: 1520875733676473096
+    second: CastleCannon-wind-ring_14
+  - first:
+      213: -1501653397121575476
+    second: CastleCannon-wind-ring_15
+  - first:
+      213: -3751039575436884535
+    second: CastleCannon-wind-ring_16
+  - first:
+      213: -3801396916729420483
+    second: CastleCannon-wind-ring_17
+  - first:
+      213: -927932943240480958
+    second: CastleCannon-wind-ring_18
+  - first:
+      213: -4234343413337746310
+    second: CastleCannon-wind-ring_19
+  - first:
+      213: 4984525142640371276
+    second: CastleCannon-wind-ring_20
+  - first:
+      213: 4618250360587834902
+    second: CastleCannon-wind-ring_21
+  - first:
+      213: -2682185227220988486
+    second: CastleCannon-wind-ring_22
+  - first:
+      213: -2408922215811926234
+    second: CastleCannon-wind-ring_23
+  - first:
+      213: -249168162709820268
+    second: CastleCannon-wind-ring_24
+  - first:
+      213: -8626066479207570481
+    second: CastleCannon-wind-ring_25
+  - first:
+      213: -3259360819549759089
+    second: CastleCannon-wind-ring_26
+  - first:
+      213: 9203469386580183044
+    second: CastleCannon-wind-ring_27
+  - first:
+      213: 798815693073127542
+    second: CastleCannon-wind-ring_28
+  - first:
+      213: 2217762055378491257
+    second: CastleCannon-wind-ring_29
+  - first:
+      213: -1124291937123713009
+    second: CastleCannon-wind-ring_30
+  - first:
+      213: -3858492969709629768
+    second: CastleCannon-wind-ring_31
+  - first:
+      213: -1206642868947386528
+    second: CastleCannon-wind-ring_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863c0cf0048174c20800000000000000
+      internalID: 3190545524436550504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe5bd738324a6e0800000000000000
+      internalID: -1827296501148815602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1faf98f15ecd2220800000000000000
+      internalID: 2462851422700416799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b067784794e1ad6a0800000000000000
+      internalID: -6423788617654110709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d47537d73d23fe0800000000000000
+      internalID: -1210672814049768170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc4c6cc49633930800000000000000
+      internalID: 4121753862447353297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d263709e83ca9b550800000000000000
+      internalID: 6177157724343055917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acdfde33a3c53bd0800000000000000
+      internalID: -2650997699735724890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775af016caa6f10e0800000000000000
+      internalID: -2296999996340329097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleCannon-wind-ring_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845004b1686713920800000000000000
+      internalID: 2968283947768743240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c72076a0f69bc94bb24faacd6229221
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CastleCannon-wind-ring_0: 3190545524436550504
+      CastleCannon-wind-ring_1: -1827296501148815602
+      CastleCannon-wind-ring_2: 2462851422700416799
+      CastleCannon-wind-ring_3: -6423788617654110709
+      CastleCannon-wind-ring_4: -1210672814049768170
+      CastleCannon-wind-ring_5: 4121753862447353297
+      CastleCannon-wind-ring_6: 6177157724343055917
+      CastleCannon-wind-ring_7: -2650997699735724890
+      CastleCannon-wind-ring_8: -2296999996340329097
+      CastleCannon-wind-ring_9: 2968283947768743240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

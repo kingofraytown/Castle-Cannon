@@ -133,7 +133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 2453598965130100407}
-  fireRate: {fileID: 11400000, guid: 1496dc3196c76ac43a6598777bbf77b2, type: 2}
+  fireRate: {fileID: 11400000, guid: 748433444ca265645ac19f84d65ab867, type: 2}
   fireRateTimer: 0
   straightShot: 0
   targetAngle: 0
@@ -159,6 +159,69 @@ MonoBehaviour:
   pooledObjects: []
   objectToPool: {fileID: 5593995897146856753, guid: 97b8cdd56cfa49b40b090d00353fde58, type: 3}
   amountToPool: 2
+--- !u!1 &4306265973762245920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6691460243082274281}
+  - component: {fileID: 4558212354350856879}
+  m_Layer: 0
+  m_Name: sfx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6691460243082274281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4306265973762245920}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1155573257279368504}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4558212354350856879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4306265973762245920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -1466551523
+      Data2: 1269852258
+      Data3: 1537603258
+      Data4: -1101391388
+    Path: event:/Weapons/Enemies/Enemy Explode small
+  Event: 
+  EventPlayTrigger: 11
+  EventStopTrigger: 0
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &5395917472146233467
 GameObject:
   m_ObjectHideFlags: 0
@@ -277,13 +340,14 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.69, y: -0.163, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1691193019000850599}
   - {fileID: 2826666534757416684}
   - {fileID: 4252940196170371606}
   - {fileID: 5407525371626422716}
+  - {fileID: 6691460243082274281}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7310255907176018006
@@ -327,6 +391,8 @@ MonoBehaviour:
   speed: 1.5
   isDying: 0
   stopDistance: 2
+  deathDamage: 0
+  lastEnemy: 0
 --- !u!61 &6069613709047344275
 BoxCollider2D:
   m_ObjectHideFlags: 0

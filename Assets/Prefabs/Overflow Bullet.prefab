@@ -62,6 +62,69 @@ Transform:
   m_Children: []
   m_Father: {fileID: 4509109160273794400}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2417419273454212391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2554490707271221716}
+  - component: {fileID: 5017625801475838358}
+  m_Layer: 0
+  m_Name: sfx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2554490707271221716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2417419273454212391}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4509109160273794400}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5017625801475838358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2417419273454212391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -1013005262
+      Data2: 1327412643
+      Data3: -820092488
+      Data4: 1381204597
+    Path: event:/Weapons/Cannon/Overflow Shot
+  Event: 
+  EventPlayTrigger: 11
+  EventStopTrigger: 0
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &3996238776126244652
 GameObject:
   m_ObjectHideFlags: 0
@@ -188,6 +251,7 @@ Transform:
   - {fileID: 6106760938862965904}
   - {fileID: 7279303634989558994}
   - {fileID: 4131414028635787518}
+  - {fileID: 2554490707271221716}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &6313916244830630162
@@ -282,6 +346,7 @@ MonoBehaviour:
   lifetime: 10
   lifeTimer: 0
   speed: 14
+  isDying: 0
   deathTime: 0.6
   deathTimer: 0
   animator: {fileID: 6027602214430126783}
@@ -297,8 +362,11 @@ MonoBehaviour:
   bomb: 0
   hasExplosion: 0
   explosionAnimator: {fileID: 0}
-  bulletStrength: 20
-  bulletHealth: 100
+  bulletStrength: 10
+  bulletHealth: 10
+  inCollision: 0
+  restoreStrength: 10
+  restoreHealth: 10
   currentState: 3
 --- !u!58 &8537554642691846985
 CircleCollider2D:

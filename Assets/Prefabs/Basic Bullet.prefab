@@ -123,6 +123,69 @@ Transform:
   - {fileID: 6920009713879231147}
   m_Father: {fileID: 2808754273505807229}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2210020961674807458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4590026104448441039}
+  - component: {fileID: 5413925555949656279}
+  m_Layer: 0
+  m_Name: sfx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4590026104448441039
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2210020961674807458}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.68061924, y: 0.059720546, z: -0.011666623}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2808754273505807229}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5413925555949656279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2210020961674807458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: 219426049
+      Data2: 1199880777
+      Data3: 1749448890
+      Data4: -2023758589
+    Path: event:/Weapons/Cannon/Cannon Basic
+  Event: 
+  EventPlayTrigger: 11
+  EventStopTrigger: 0
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &3166183835887461360
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,6 +428,7 @@ Transform:
   m_Children:
   - {fileID: 889255570577194561}
   - {fileID: 1921193084332289438}
+  - {fileID: 4590026104448441039}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3792156071857275963
@@ -437,6 +501,7 @@ MonoBehaviour:
   lifetime: 5
   lifeTimer: 0
   speed: 6
+  isDying: 0
   deathTime: 0.4
   deathTimer: 0
   animator: {fileID: 4402674949726912826}
@@ -454,6 +519,9 @@ MonoBehaviour:
   explosionAnimator: {fileID: 0}
   bulletStrength: 1
   bulletHealth: 1
+  inCollision: 0
+  restoreStrength: 1
+  restoreHealth: 1
   currentState: 3
 --- !u!61 &898616956238575677
 BoxCollider2D:
@@ -489,7 +557,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.03}
+  m_Offset: {x: 0, y: -0.017817006}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -499,7 +567,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.51, y: 0.66}
+  m_Size: {x: 0.51, y: 0.92868614}
   m_EdgeRadius: 0
 --- !u!95 &4402674949726912826
 Animator:
