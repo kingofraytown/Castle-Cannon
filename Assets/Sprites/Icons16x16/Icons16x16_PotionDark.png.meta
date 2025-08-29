@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons16x16_PotionDark_0: -7032749637328828919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

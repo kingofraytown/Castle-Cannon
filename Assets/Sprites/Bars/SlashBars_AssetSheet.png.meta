@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlashBars_AssetSheet_0: 3197331420065691562
+      SlashBars_AssetSheet_1: -1726698671419664003
+      SlashBars_AssetSheet_10: 4417313955483902083
+      SlashBars_AssetSheet_11: -3759638030819778014
+      SlashBars_AssetSheet_12: 4977928723631450857
+      SlashBars_AssetSheet_13: 1247230419220027637
+      SlashBars_AssetSheet_14: 105010441573696323
+      SlashBars_AssetSheet_15: 8121505766530474388
+      SlashBars_AssetSheet_16: 1360721387104349121
+      SlashBars_AssetSheet_17: -6113200204571879842
+      SlashBars_AssetSheet_18: 4398251750482984035
+      SlashBars_AssetSheet_19: -933593311761577152
+      SlashBars_AssetSheet_2: 1709840006814896986
+      SlashBars_AssetSheet_20: -3008892537677091493
+      SlashBars_AssetSheet_21: 5416652699986266032
+      SlashBars_AssetSheet_3: 3178760052072789349
+      SlashBars_AssetSheet_4: -2577207187579899773
+      SlashBars_AssetSheet_5: 1434954377849240998
+      SlashBars_AssetSheet_6: 7460998790789388071
+      SlashBars_AssetSheet_7: 5754214599838661878
+      SlashBars_AssetSheet_8: -131139564025186688
+      SlashBars_AssetSheet_9: -4820139976822946021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

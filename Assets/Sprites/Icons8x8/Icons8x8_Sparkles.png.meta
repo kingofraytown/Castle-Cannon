@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons8x8_Sparkles_0: -1992829349055405891
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons16x16_Sparkles5_0: 7194047945309685261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

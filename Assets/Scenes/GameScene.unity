@@ -8715,7 +8715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pooledObjects: []
-  objectToPool: {fileID: 3186015896698818489, guid: a9c2000f8c16aa2439324b1f91365529, type: 3}
+  objectToPool: {fileID: 4649170600755607596, guid: 37059d0a5e9a60e4a84cf1d31a8479ee, type: 3}
   amountToPool: 10
 --- !u!114 &738550022
 MonoBehaviour:
@@ -19910,7 +19910,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1659966452
 RectTransform:
   m_ObjectHideFlags: 0
@@ -19979,7 +19979,7 @@ Animator:
   m_GameObject: {fileID: 1668019421}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4b78a472fb024214099abf8fd8e23fac, type: 2}
+  m_Controller: {fileID: 9100000, guid: 271c856fd7d04eb42969790bfa01f2f2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

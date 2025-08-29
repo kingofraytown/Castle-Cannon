@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Button_Text_Square_Wide_Blue_0: -7368646870024842359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

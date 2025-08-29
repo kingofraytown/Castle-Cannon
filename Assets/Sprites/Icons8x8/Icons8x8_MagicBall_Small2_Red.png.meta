@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons8x8_MagicBall_Small2_Red_0: -4958705927488298056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

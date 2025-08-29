@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SlimBar_Full_Mid_Yellow_0: -8883134847776116064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

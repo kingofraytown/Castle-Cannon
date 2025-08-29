@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WideBar_Full_Mid_Blue_0: 4929694516452093523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
